@@ -1,0 +1,84 @@
+\chapter{Background} % Main chapter title
+
+\label{Background} % For referencing the chapter elsewhere, use \ref{Chapter1} 
+
+\section{Cell}
+
+Modern biology theory defines the cells discovered by Hooke in 1665 as the most basic unit of organic organisms. Modern cell theory consists of three parts, all living things are composed of cells and cell products; cells are the most basic unit of life structure and function; all new cells are derived from old cells.
+
+\subsection{Cell Lineage}
+
+Cell lineage refers to the developmental history of blastomeres from the time of the first cleavage until the final differentiation into tissues and organ cells. The division of fertilized eggs in many animals is carried out in a strict format. In this process, the moment, the order, and the location in the space of the splitting balls' generation are specified. This kind of inter-cell relationship in the developmental generation is like the lineage of the human family, so it is called the cell lineage \parencite{regev_human_2017,nowogrodzki_how_2017}. \\
+
+The study of cell lineage plays an important role in understanding the relationship between the uneven distribution of egg quality and the developmental fate of blastomeres, as well as the evolutionary relationship between the early development of different species of animals. In the past many years, researchers have also begun to focus on the pedigree research of abnormal developmental cells such as cancer cells, in order to systematically understand its occurrence process and mechanism \parencite{regev_human_2017}.
+
+\subsection{Cell Classification}
+
+For a long time, scientists have been working to discover and classify a wide variety of cells. At the same time, they are also committed to a detailed description of the characteristics of each cell type. However, due to the limitations of technology, scientists can only distinguish different types of cells by their shape, their position in the organism and their relative relationship with other cells. \\
+
+After various chemical stains were discovered, scientists began to classify and differentiate them using the performance of various cells under different stains. The 1906 Nobel Prize in Physiology or Medicine was awarded to two scientists who used staining techniques and anatomical techniques to study the diverse structures of the brain. \\
+
+Due to the imaging limitations of optical microscopy, in order to better study cell structure and other characteristics, scientists began to seek more powerful microscopic imaging tools. Since the 1930s, electron microscopy, which has been able to provide imaging magnifications of up to 5000 times, has become one of the important tools for biological research. In the rapid development phase of subsequent science, various modern biotechnologies such as FACS (fluorescence activated cell sorting) and FISH (fluorescence in situ hybridization) help researchers distinguish various cell types. \\
+
+Today, we have so many techniques and methods to classify cells, and it seems that scientists are about to realize their ultimate pursuit of cell sorting. But the facts are not always satisfactory. In fact, the various results we have achieved on cell classification can only be considered to be fragmented and one-sided. The various classification models we have are often based on different detection indicators and evaluation criteria, and the correlation between these indicators is difficult to be strictly defined and evaluated, so the integration of different classification models becomes an extremely difficult task. So far, we have established a complete cell lineage of fertilized eggs to mature bodies only in $C. elegan$. It is a kind of extremely simple creature and its mature individuals have only about 1000 cells. At the same time, the number of cells in different mature individuals of the same sex is the same. This is a rare character which is very meaningful in building cell lineage. \\
+
+At the same time, due to the confusion of various detection methods and evaluation methods, we lack a strict definition of some basic concepts in the cell classification problem, which may cause confusion and trouble in some cases. The booming single-cell omics technology in recent years provides researchers with a comprehensive set of comprehensive indicators. Many researchers believe that this set of techniques can provide data-based definitions for different cell types, which greatly increases the accuracy of the definition. Also, single-cell multi-omics technology provides a platform on which scientists can re-integrate the various cell maps we know into a huge one with adding more single-cell level details to it. And they can also find that some cell types and cell development pathways which have not been discovered. 
+
+\section{Single-cell Biology and Cell Lineage}
+
+\subsection{Single-cell Omics}
+
+As one of the most basic unit concepts of life, cells are the cornerstone of life activities. Although biologists have been working under a microscope for nearly 180 years, we still don't know much about cells. We expect effective technical means to completely examine the composition of individual cells to identify and treat diseases at the cellular and even molecular levels \parencite{noauthor_single-cell_2017, perkel_single-cell_2017}. \\
+
+Single-cell sequencing refers to the technique of obtaining data and analyzing information by sequencing the levels of genomes, transcriptomes and epigenetic-genomes of individual cells. Single-cell sequencing can solve the problem of cellular heterogeneity that cannot be solved by traditionally sequencing mixed tissue samples, and provides a new method for analyzing the behavior, mechanism and relationship between individual cells and the body 
+\parencite{perkel_single-cell_2017,regev_human_2017}. \\
+
+In conventional tissue RNA sequencing methods, the signals produced by different kinds of cells are averaged. Throughout the process, the difference between cells and cells, also known as cytoplasmic heterogeneity, was ignored. We can't find two identical cells in nature, and scRNA-seq provides us with the opportunity to discover the tiny differences between these cells. Using a scRNA-seq data-driven approach, researchers also have the chance to discover some new cell types \parencite{regev_human_2017}. Single-cell genome and epigenetic genome sequencing can identify cell genomes. The purpose of the genome approach is to identify the entire genome or capture a specific predefined region. Epigenetic methods can capture specific predefined sequences based on unique histone modification (scChIP-Seq), genome openness (scATAC-Seq), or the same identification of DNA methylation patterns (scDNAme-Seq) or 3D chromosome-structures (scHi-C) \parencite{nowogrodzki_how_2017}. A combination of barcode-strategies is now used to capture tens of thousands of single cells. Single-cell epigenetic genomics methods usually study only the nucleus, so frozen or certain fixed samples could be used. 
+ 
+\subsection{The Human Cell Atlas}
+
+Scientists have long recognized the need for a deeper understanding of cells, but until recently, with the rapid development of single-cell omics technology, the creation of a complete and systematic human cell map has become a viable goal. In 2017, researchers from different countries proposed an initiative to open a project called ``The Human Cell Atlas'' 
+\parencite{regev_human_2017}. This is an ambitious project that, like the Human Genome Project, attempts to provide data support for fundamentally solving biological problems. 
+
+\subsection{Single-cell Trajectory Inference (scTI)}
+
+In traditional studies of cellular dynamic processes (such as cell cycle, cell differentiation, and cell activation), scientists rely mainly on tracking cells calibrated in multiple sets of parallel experiments at different time nodes, a method that is undoubtedly very complex and time-consuming. Cells reach the cell types they  finally differentiate to by distinguishing between asynchronous branching pathways. The material basis of this differentiation process is the change of molecular characteristics within cells, especially the regulation of different gene expression levels by cells at different times. The method based on single-cell omics (such as transcription, proteomics, and epigenetic genomics) is actually a pseudo-time sequence analysis strategy, which means that researchers can analyze the entire cellular dynamic process with few static samples \parencite{tanay_scaling_2017,etzrodt_quantitative_2014}. \\
+
+These dynamic process can be inferred by a trajectory inference (TI) method \parencite{regev_human_2017, nowogrodzki_how_2017}. It sorts cells along the trajectory according to the similarity of cell expression patterns. Through this technique, single cell cytology can reconstruct the evolution process of cells into a trajectory of high-dimensional space 
+\parencite{trapnell_defining_2015,cannoodt_computational_2016,moon_manifold_2018}. In general, trajectories produced by this method are linear, tree-shaped or bifurcated. But some of the latest methods also support the formation of trajectories consisting of more complex topologies, such as ring structures 
+\parencite{liu_reconstructing_2017} and structures containing broken connections 
+\parencite{wolf_paga:_2019}. TI methods can help us to fully understand the dynamics of cells from a single-cell omics perspective \parencite{tanay_scaling_2017}, objectively identify different cell subtypes and subsets of cells \parencite{schlitzer_identification_2015} and map the corresponding cell differentiation trees \parencite{velten_human_2017,see_mapping_2017}, and infer cell-cell interactions regulating differentiation bifurcations between cells 
+\parencite{aibar_scenic:_2017}. \\
+
+If researchers had large enough single-celled sample sets, they would also have the opportunity to discover phenomena that could not be observed in normal cellular development dynamics systems. The more complex the cell lineage path, the more intersections there are, the larger the sample set is needed to study the above anomalies. At the same time, reasonable selection of clustering or regression algorithm to classify cells is beneficial for researchers to observe rare cell intermediate states and cell subtypes. When the cellular lineage of the entire sample set is constructed, researchers can analyze the distribution of cells on different pathways along the lineage direction to obtain the relative duration and clustering size of each cell development stage, and analyze the subset of progenitor cells in the whole dataset 
+\parencite{regev_human_2017}. 
+
+
+
+%----------------------------------------------------------------------------------------
+%\newpage
+
+
+
+
+
+
+%----------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+%----------------------------------------------------------------------------------------
+
+
+
+%----------------------------------------------------------------------------------------
+
+
+
+
+%The \code{biblatex} package is used to format the bibliography and inserts references such as this one \parencite{Reference1}. The options used in the \file{main.tex} file mean that the in-text citations of references are formatted with the author(s) listed with the date of the publication. Multiple references are separated by semicolons (e.g. \parencite{Reference2, Reference1}) and references with more than three authors only show the first author with \emph{et al.} indicating there are more authors (e.g. \parencite{Reference3}). This is done automatically for you. To see how you use references, have a look at the \file{Chapter1.tex} source file. Many reference managers allow you to simply drag the reference into the document as you type.
+

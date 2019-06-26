@@ -1,0 +1,191 @@
+\DeclareUnicodeCharacter{FB01}{fi}
+\DeclareUnicodeCharacter{FB02}{fi}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Masters/Doctoral Thesis 
+% LaTeX Template
+% Version 2.5 (27/8/17)
+%
+% This template was downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Version 2.x major modifications by:
+% Vel (vel@latextemplates.com)
+%
+% This template is based on a template by:
+% Steve Gunn (http://users.ecs.soton.ac.uk/srg/softwaretools/document/templates/)
+% Sunil Patel (http://www.sunilpatel.co.uk/thesi -template/)
+%
+% Template license:
+% CC B -N -SA 3.0 (http://creativecommons.org/licenses/b -n -sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+
+
+\documentclass[
+12pt, % The default document font size, options: 10pt, 11pt, 12pt
+oneside, % Two side (alternating margins) for binding by default, uncomment to switch to one side
+english, % ngerman for German
+doublespacing, % Single line spacing, alternatives: onehalfspacing or doublespacing
+%draft, % Uncomment to enable draft mode (no pictures, no links, overfull hboxes indicated)
+nolistspacing, % If the document is onehalfspacing or doublespacing, uncomment this to set spacing in lists to single
+liststotoc, % Uncomment to add the list of figures/tables/etc to the table of contents
+toctotoc, % Uncomment to add the main table of contents to the table of contents
+parskip, % Uncomment to add space between paragraphs
+%nohyperref, % Uncomment to not load the hyperref package
+headsepline, % Uncomment to get a line under the header
+chapterinoneline, % Uncomment to place the chapter title next to the number on one line
+consistentlayout, % Uncomment to change the layout of the declaration, abstract and acknowledgements pages to match the default layout
+]{MastersDoctoralThesis} % The class file specifying the document structure
+
+\usepackage[utf8]{inputenc} % Required for inputting international characters
+\usepackage[T1]{fontenc} % Output font encoding for international characters
+
+\usepackage{mathpazo} % Use the Palatino font by default
+
+\usepackage[backend=bibtex,
+bibstyle=numeric,
+citestyle=numeric-comp,
+natbib=true,hyperref=true,sorting=ynt]{biblatex} % Use the bibtex backend with the authoryear citation style (which resembles APA)
+
+\addbibresource{MyLibrary.bib} % The filename of the bibliography
+
+\usepackage[autostyle=true]{csquotes} % Required to generate languag -dependent quotes in the bibliography
+
+\usepackage{float} 
+\usepackage{aligned-overset}
+\usepackage{amssymb}
+\usepackage[utf8]{inputenc}
+
+%	MARGIN SETTINGS
+
+
+\geometry{
+	paper=a4paper, % Change to letterpaper for US letter
+	inner=2cm, % Inner margin
+	outer=2cm, % Outer margin
+	bindingoffset=0cm, % Binding offset
+	top=1.3cm, % Top margin
+	bottom=1.3cm, % Bottom margin
+	%showframe, % Uncomment to show how the type block is set on the page
+}
+
+
+%	THESIS INFORMATION
+
+
+\thesistitle{Single-cell Trajectory Inference Approaches} % Your thesis title, this is used in the title and abstract, print it elsewhere with \ttitle
+\supervisor{Prof. Wei \textsc{Huang}} % Your supervisor's name, this is used in the title page, print it elsewhere with \supname
+%\examiner{huhuhuhu} % Your examiner's name, this is not currently used anywhere in the template, print it elsewhere with \examname
+\degree{Literature Review} % Your degree name, this is used in the title page and abstract, print it elsewhere with \degreename
+\author{Siyuan \textsc{Guo} 11611118 } % Your name, this is used in the title page and abstract, print it elsewhere with \authorname
+\addresses{Shenzhen} % Your address, this is not currently used anywhere in the template, print it elsewhere with \addressname
+
+\subject{Biological Sciences} % Your subject area, this is not currently used anywhere in the template, print it elsewhere with \subjectname
+\keywords{} % Keywords for your thesis, this is not currently used anywhere in the template, print it elsewhere with \keywordnames
+\university{\href{http://www.university.com}{Southern University of Science and Technology}} % Your university's name and URL, this is used in the title page and abstract, print it elsewhere with \univname
+\department{\href{http://department.university.com}{Department of Biology}} % Your department's name and URL, this is used in the title page and abstract, print it elsewhere with \deptname
+\group{\href{http://researchgroup.university.com}{BIO302}} % Your research group's name and URL, this is used in the title page, print it elsewhere with \groupname
+%\faculty{\href{http://faculty.university.com}{Faculty Name}} % Your faculty's name and URL, this is used in the title page and abstract, print it elsewhere with \facname
+
+\AtBeginDocument{
+\hypersetup{pdftitle=\ttitle} % Set the PDF's title to your title
+\hypersetup{pdfauthor=\authorname} % Set the PDF's author to your name
+\hypersetup{pdfkeywords=\keywordnames} % Set the PDF's keywords to your keywords
+}
+
+\begin{document}
+
+\frontmatter % Use roman page numbering style (i, ii, iii, iv...) for the pr - content pages
+
+\pagestyle{plain} % Default to the plain heading style until the thesis style is called for the body content
+
+
+%	TITLE PAGE
+
+
+\begin{titlepage}
+\begin{center}
+
+\vspace*{.06\textheight}
+{\scshape \LARGE \univname \par}\vspace{1.0cm} % University name
+\textsc{\Large BIO304: SYSTEMS BIOLOGY}\\[0.5cm] % Thesis type
+
+\HRule \\[0.56cm] % Horizontal line
+{\huge \bfseries \ttitle \par}\vspace{0.5cm} % Thesis title
+\HRule \\[0.8cm] % Horizontal line
+ 
+\begin{minipage}[t]{0.4\textwidth}
+\begin{flushleft} \large
+\emph{Author:}\\
+\href{http://www.johnsmith.com}{\authorname} % Author name - remove the \href bracket to remove the link
+\end{flushleft}
+\end{minipage}
+\begin{minipage}[t]{0.4\textwidth}
+\begin{flushright} \large
+\emph{Supervisor:} \\
+\href{http://www.jamessmith.com}{\supname} % Supervisor name - remove the \href bracket to remove the link  
+\end{flushright}
+\end{minipage}\\[5cm]
+
+\Large \deptname\\[0cm] % Research group name and department name
+ 
+{\large \today}\\[0cm] % Date
+%\includegraphics{Logo} % University/department logo - uncomment to place it
+ 
+\end{center}
+\end{titlepage}
+
+
+\begin{abstract}
+\addchaptertocentry{\abstractname} 
+Since the discovery of the cell in 1665, scientists have been working to classify cells and build cell lineage. In the process, scientists have developed a variety of methods and made some great achievements. In recent years, single-cell sequencing technology has developed rapidly, and researchers have developed a number of single-cell trajectory inference tools that can use single-cell sequencing data to classify cells and build cell lineage, turning research of cellular dynamic processes into analysis of the pseudo-time series and greatly improved analysis throughput. Some ambitious scientists also hope to use this technology to construct “The Human Cell Atlas”. The existing scTI methods have achieved many achievements. In some simple cell differentiation systems, scientists have used these methods to ﬁnd answers to many important biological problems. The paper also lists 20 commonly used scTI methods and 7 basic topologies in the cell lineage, and organizes and summarizes the basic information of these methods and their adaptability to various basic topologies. At the same time, in fact, cell lineage studies based on single-cell biology are still in the early stages of development, and scientists need more powerful sequencing techniques and better-performing core algorithms to further develop these scTI research strategies. In future biological research, especially after scientists have successfully mapped the complete “The Human Cell Atlas” and the cell lineage of various model animals, single-cell-based cell lineage and classiﬁcation studies will provide a powerful boost to the development of biology.
+\end{abstract}
+
+\tableofcontents
+
+\mainmatter % Begin numeric (1,2,3...) page numbering
+
+\pagestyle{thesis} % Return the page headers back to the "thesis" style
+
+% Include the chapters of the thesis as separate files from the Chapters folder
+% Uncomment the lines as you write the chapters
+
+%------------------------ ---------------------------------------------------------------
+
+% Define some commandsx to keep the formatting separated from the content 
+\newcommand{\keyword}[1]{\textbf{#1}}
+\newcommand{\tabhead}[1]{\textbf{#1}}
+\newcommand{\code}[1]{\texttt{#1}}
+\newcommand{\file}[1]{\texttt{\bfseries#1}}
+\newcommand{\option}[1]{\texttt{\itshape#1}}
+
+%----------------------------------------------------------------------------------------
+
+\include{Chapters/Chapter1} 
+\include{Chapters/Chapter2}  
+\include{Chapters/Chapter3}
+%\include{Chapters/Chapter4} 
+%\include{Chapters/Chapter5} 
+
+
+%	THESIS CONTENT - APPENDICES
+ 
+
+\appendix % Cue to tell LaTeX that the following "chapters" are Appendices
+
+% Include the appendices of the thesis as separate files from the Appendices folder
+% Uncomment the lines as you write the Appendices
+
+%\include{Appendices/AppendixA}
+%\include{Appendices/AppendixB}
+%\include{Appendices/AppendixC}
+
+ 
+%	BIBLIOGRAPHY
+ 
+\renewcommand*{\bibfont}{\fontsize{9pt}{8pt} \selectfont}
+\printbibliography[heading=bibintoc]
+\end{document}  

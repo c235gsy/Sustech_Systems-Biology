@@ -1,0 +1,14 @@
+# Fdb version 3
+["pdflatex"] 1559462663 "Chapter3.tex" "Chapter3.pdf" "Chapter3" 1559462664
+  "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
+  "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm" 1136768653 1532 9162035f4e7176612125649e348e2195 ""
+  "/usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf" 1557092114 35484 cb1661360667bf4db662a8895053b554 ""
+  "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1557760160 3304010 4e71c28337cd8dc69125ef8204778b7e ""
+  "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1557759162 4259636 0138cfa782d0d1da392586ca7d32a9df ""
+  "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
+  "Chapter3.aux" 1559462620 5422 625d23985a220beb8b5a9170aca686b1 ""
+  "Chapter3.tex" 1559462663 2459 9074bcff8cca84f0446886b22cb158ac ""
+  (generated)
+  "Chapter3.pdf"
+  "Chapter3.log"

@@ -1,0 +1,6 @@
+PWD /Users/guosiyuan/Desktop/系统生物学/Final literature review /write/Chapters
+INPUT /usr/local/texlive/2019/texmf.cnf
+INPUT /usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT Chapter3.tex
+OUTPUT Chapter3.log

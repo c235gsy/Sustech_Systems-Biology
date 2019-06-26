@@ -1,0 +1,9 @@
+PWD /Users/guosiyuan/Desktop/系统生物学/HW2/Chapters
+INPUT /usr/local/texlive/2018/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT Chapter2.tex
+OUTPUT Chapter2.log
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmti10.tfm

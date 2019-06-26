@@ -1,0 +1,32 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\contentsline {chapter}{Abstract}{i}{chapter*.1}% 
+\contentsline {chapter}{Contents}{ii}{chapter*.2}% 
+\contentsline {chapter}{\numberline {1}Background}{1}{chapter.3}% 
+\contentsline {section}{\numberline {1.1}Cell}{1}{section.4}% 
+\contentsline {subsection}{\numberline {1.1.1}Cell Lineage}{1}{subsection.5}% 
+\contentsline {subsection}{\numberline {1.1.2}Cell Classification}{2}{subsection.6}% 
+\contentsline {section}{\numberline {1.2}Single-cell Biology and Cell Lineage}{3}{section.7}% 
+\contentsline {subsection}{\numberline {1.2.1}Single-cell Omics}{3}{subsection.8}% 
+\contentsline {subsection}{\numberline {1.2.2}The Human Cell Atlas}{4}{subsection.9}% 
+\contentsline {subsection}{\numberline {1.2.3}Single-cell Trajectory Inference (scTI)}{5}{subsection.10}% 
+\contentsline {chapter}{\numberline {2}Current Research Achievements}{7}{chapter.11}% 
+\contentsline {section}{\numberline {2.1}ScTI Methods are Constantly Being Developed}{7}{section.12}% 
+\contentsline {section}{\numberline {2.2}ScTI Methods Analyzing Different Cell Lineage}{7}{section.13}% 
+\contentsline {subsection}{\numberline {2.2.1}Hematopoietic System}{8}{subsection.14}% 
+\contentsline {subsection}{\numberline {2.2.2}Cancer Research}{8}{subsection.15}% 
+\contentsline {section}{\numberline {2.3}Summery of Commonly Used scTI Methods}{9}{section.16}% 
+\contentsline {subsection}{\numberline {2.3.1}Commonly Used scTI Methods}{10}{subsection.17}% 
+\contentsline {subsection}{\numberline {2.3.2}Basic Trajectory Structure Types}{11}{subsection.19}% 
+\contentsline {subsection}{\numberline {2.3.3}Inferable Trajectory Structures of scTI Methods}{12}{subsection.22}% 
+\contentsline {chapter}{\numberline {3}Future Directions}{13}{chapter.24}% 
+\contentsline {section}{\numberline {3.1}Single-cell Omics}{13}{section.25}% 
+\contentsline {subsection}{\numberline {3.1.1}Data Quality and Sequencing Depth}{13}{subsection.26}% 
+\contentsline {subsection}{\numberline {3.1.2}Data Preprocessing Technology}{14}{subsection.27}% 
+\contentsline {subsection}{\numberline {3.1.3}Multi-omics Analysis in One Cell}{14}{subsection.28}% 
+\contentsline {section}{\numberline {3.2}Core Algorithms of scTI Methods}{15}{section.29}% 
+\contentsline {subsection}{\numberline {3.2.1}Advanced Algorithms}{15}{subsection.30}% 
+\contentsline {subsection}{\numberline {3.2.2}Mathematical Models}{15}{subsection.31}% 
+\contentsline {section}{\numberline {3.3}Biological Analysis Related to csTI Methods}{16}{section.32}% 
+\contentsline {section}{\numberline {3.4}Establishment of the complete cell lineage of species}{16}{section.33}% 
+\contentsline {chapter}{Bibliography}{18}{appendix*.34}% 

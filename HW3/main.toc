@@ -1,0 +1,19 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\contentsline {chapter}{Contents}{i}{chapter*.1}% 
+\contentsline {chapter}{\numberline {1}Simulate simple 2D Brownian motion of $\textbf {\textit {E.coli}}$}{1}{chapter.2}% 
+\contentsline {section}{\numberline {1.1}Symbols}{1}{section.3}% 
+\contentsline {section}{\numberline {1.2}Biological background}{2}{section.5}% 
+\contentsline {section}{\numberline {1.3}Hypothesis for simulation}{3}{section.6}% 
+\contentsline {section}{\numberline {1.4}Results of simulation}{4}{section.7}% 
+\contentsline {chapter}{\numberline {2}Simulate 2D Brownian motion of $\textbf {\textit {E.coli}}$ with constant chemoattractant(A) gradient along x-direction}{7}{chapter.11}% 
+\contentsline {section}{\numberline {2.1}Symbols}{7}{section.12}% 
+\contentsline {section}{\numberline {2.2}Hypothesize our own chemotaxis actions}{8}{section.14}% 
+\contentsline {section}{\numberline {2.3}Hypothesis for simulation}{8}{section.15}% 
+\contentsline {section}{\numberline {2.4}Results of simulation}{9}{section.16}% 
+\contentsline {section}{\numberline {2.5}Comparing ``simple Brownian motion'' and ``Brownian motion with chemotaxis in x-direction'' for 10000 cells.}{12}{section.20}% 
+\contentsline {chapter}{\numberline {3}Image processing and tracking of all the cells in the given $\textbf {\textit {E.coli}}$ movie using u-track 2.0, and perform data analysis}{14}{chapter.22}% 
+\contentsline {section}{\numberline {3.1}Get data form movie}{14}{section.23}% 
+\contentsline {section}{\numberline {3.2}Single bacteria trajectory}{15}{section.24}% 
+\contentsline {section}{\numberline {3.3}Bacteria population trajectory}{16}{section.26}% 
+\contentsline {section}{\numberline {3.4}Fitting the Data with the Model}{17}{section.28}% 

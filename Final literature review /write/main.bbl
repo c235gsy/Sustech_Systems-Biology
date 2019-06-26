@@ -1,0 +1,5406 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{ynt/global//global/global}
+  \entry{diehn_association_2009}{article}{}
+    \name{author}{23}{}{%
+      {{hash=DM}{%
+         family={Diehn},
+         familyi={D\bibinitperiod},
+         given={Maximilian},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CRW}{%
+         family={Cho},
+         familyi={C\bibinitperiod},
+         given={Robert\bibnamedelima W.},
+         giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=LNA}{%
+         family={Lobo},
+         familyi={L\bibinitperiod},
+         given={Neethan\bibnamedelima A.},
+         giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=KT}{%
+         family={Kalisky},
+         familyi={K\bibinitperiod},
+         given={Tomer},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=DMJ}{%
+         family={Dorie},
+         familyi={D\bibinitperiod},
+         given={Mary\bibnamedelima Jo},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=KAN}{%
+         family={Kulp},
+         familyi={K\bibinitperiod},
+         given={Angela\bibnamedelima N.},
+         giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=QD}{%
+         family={Qian},
+         familyi={Q\bibinitperiod},
+         given={Dalong},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=LJS}{%
+         family={Lam},
+         familyi={L\bibinitperiod},
+         given={Jessica\bibnamedelima S.},
+         giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=ALE}{%
+         family={Ailles},
+         familyi={A\bibinitperiod},
+         given={Laurie\bibnamedelima E.},
+         giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Wong},
+         familyi={W\bibinitperiod},
+         given={Manzhi},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=JB}{%
+         family={Joshua},
+         familyi={J\bibinitperiod},
+         given={Benzion},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=KMJ}{%
+         family={Kaplan},
+         familyi={K\bibinitperiod},
+         given={Michael\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=WI}{%
+         family={Wapnir},
+         familyi={W\bibinitperiod},
+         given={Irene},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=DFM}{%
+         family={Dirbas},
+         familyi={D\bibinitperiod},
+         given={Frederick\bibnamedelima M.},
+         giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Somlo},
+         familyi={S\bibinitperiod},
+         given={George},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=GC}{%
+         family={Garberoglio},
+         familyi={G\bibinitperiod},
+         given={Carlos},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=PB}{%
+         family={Paz},
+         familyi={P\bibinitperiod},
+         given={Benjamin},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Shen},
+         familyi={S\bibinitperiod},
+         given={Jeannie},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LSK}{%
+         family={Lau},
+         familyi={L\bibinitperiod},
+         given={Sean\bibnamedelima K.},
+         giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=QSR}{%
+         family={Quake},
+         familyi={Q\bibinitperiod},
+         given={Stephen\bibnamedelima R.},
+         giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=BJM}{%
+         family={Brown},
+         familyi={B\bibinitperiod},
+         given={J.\bibnamedelima Martin},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=WIL}{%
+         family={Weissman},
+         familyi={W\bibinitperiod},
+         given={Irving\bibnamedelima L.},
+         giveni={I\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=CMF}{%
+         family={Clarke},
+         familyi={C\bibinitperiod},
+         given={Michael\bibnamedelima F.},
+         giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \keyw{Humans, Animals, Mice, Mice, Inbred C57BL, Neoplastic Stem Cells,
+  Breast Neoplasms, Cells, Cultured, {DNA} Damage, Female, Gene Expression,
+  Mammary Glands, Human, Radiation Tolerance, Reactive Oxygen Species}
+    \strng{namehash}{DM+1}
+  \strng{fullhash}{DMCRWLNAKTDMJKANQDLJSALEWMJBKMJWIDFMSGGCPBSJLSKQSRBJMWILCMF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    The metabolism of oxygen, although central to life, produces reactive
+  oxygen species ({ROS}) that have been implicated in processes as diverse as
+  cancer, cardiovascular disease and ageing. It has recently been shown that
+  central nervous system stem cells and haematopoietic stem cells and early
+  progenitors contain lower levels of {ROS} than their more mature progeny, and
+  that these differences are critical for maintaining stem cell function. We
+  proposed that epithelial tissue stem cells and their cancer stem cell ({CSC})
+  counterparts may also share this property. Here we show that normal mammary
+  epithelial stem cells contain lower concentrations of {ROS} than their more
+  mature progeny cells. Notably, subsets of {CSCs} in some human and murine
+  breast tumours contain lower {ROS} levels than corresponding non-tumorigenic
+  cells ({NTCs}). Consistent with {ROS} being critical mediators of
+  ionizing-radiation-induced cell killing, {CSCs} in these tumours develop less
+  {DNA} damage and are preferentially spared after irradiation compared to
+  {NTCs}. Lower {ROS} levels in {CSCs} are associated with increased expression
+  of free radical scavenging systems. Pharmacological depletion of {ROS}
+  scavengers in {CSCs} markedly decreases their clonogenicity and results in
+  radiosensitization. These results indicate that, similar to normal tissue
+  stem cells, subsets of {CSCs} in some tumours contain lower {ROS} levels and
+  enhanced {ROS} defences compared to their non-tumorigenic progeny, which may
+  contribute to tumour radioresistance.%
+    }
+    \verb{doi}
+    \verb 10.1038/nature07733
+    \endverb
+    \field{issn}{1476-4687}
+    \field{number}{7239}
+    \field{pages}{780\bibrangedash 783}
+    \field{title}{Association of reactive oxygen species levels and
+  radioresistance in cancer stem cells}
+    \field{volume}{458}
+    \verb{file}
+    \verb Accepted Version:/Users/guosiyuan/Zotero/storage/ZBMRIMGT/Diehn et al
+    \verb . - 2009 - Association of reactive oxygen species levels and .pdf:app
+    \verb lication/pdf
+    \endverb
+    \field{journaltitle}{Nature}
+    \field{day}{09}
+    \field{month}{04}
+    \field{year}{2009}
+  \endentry
+
+  \entry{dalerba_single-cell_2011}{article}{}
+    \name{author}{22}{}{%
+      {{hash=DP}{%
+         family={Dalerba},
+         familyi={D\bibinitperiod},
+         given={Piero},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KT}{%
+         family={Kalisky},
+         familyi={K\bibinitperiod},
+         given={Tomer},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Sahoo},
+         familyi={S\bibinitperiod},
+         given={Debashis},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=RPS}{%
+         family={Rajendran},
+         familyi={R\bibinitperiod},
+         given={Pradeep\bibnamedelima S.},
+         giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=RME}{%
+         family={Rothenberg},
+         familyi={R\bibinitperiod},
+         given={Michael\bibnamedelima E.},
+         giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=LAA}{%
+         family={Leyrat},
+         familyi={L\bibinitperiod},
+         given={Anne\bibnamedelima A.},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Sim},
+         familyi={S\bibinitperiod},
+         given={Sopheak},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=OJ}{%
+         family={Okamoto},
+         familyi={O\bibinitperiod},
+         given={Jennifer},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=JDM}{%
+         family={Johnston},
+         familyi={J\bibinitperiod},
+         given={Darius\bibnamedelima M.},
+         giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=QD}{%
+         family={Qian},
+         familyi={Q\bibinitperiod},
+         given={Dalong},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=ZM}{%
+         family={Zabala},
+         familyi={Z\bibinitperiod},
+         given={Maider},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bueno},
+         familyi={B\bibinitperiod},
+         given={Janet},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=NNF}{%
+         family={Neff},
+         familyi={N\bibinitperiod},
+         given={Norma\bibnamedelima F.},
+         giveni={N\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Jianbin},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SAA}{%
+         family={Shelton},
+         familyi={S\bibinitperiod},
+         given={Andrew\bibnamedelima A.},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=VB}{%
+         family={Visser},
+         familyi={V\bibinitperiod},
+         given={Brendan},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=HS}{%
+         family={Hisamori},
+         familyi={H\bibinitperiod},
+         given={Shigeo},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SY}{%
+         family={Shimono},
+         familyi={S\bibinitperiod},
+         given={Yohei},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=vdWM}{%
+         prefix={van\bibnamedelima de},
+         prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+         family={Wetering},
+         familyi={W\bibinitperiod},
+         given={Marc},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CH}{%
+         family={Clevers},
+         familyi={C\bibinitperiod},
+         given={Hans},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=CMF}{%
+         family={Clarke},
+         familyi={C\bibinitperiod},
+         given={Michael\bibnamedelima F.},
+         giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=QSR}{%
+         family={Quake},
+         familyi={Q\bibinitperiod},
+         given={Stephen\bibnamedelima R.},
+         giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \keyw{Adult, Humans, Animals, Mice, Single-Cell Analysis, Cell
+  Differentiation, Female, Flow Cytometry, Cell Lineage, Adenocarcinoma, Aged,
+  Aged, 80 and over, Colonic Neoplasms, Disease-Free Survival, Gene Expression
+  Regulation, Neoplastic, {HCT}116 Cells, Kaplan-Meier Estimate, Male, Middle
+  Aged, Neoplasm Staging, Transcription, Genetic, Transplantation,
+  Heterologous, Treatment Outcome}
+    \strng{namehash}{DP+1}
+    \strng{fullhash}{DPKTSDRPSRMELAASSOJJDMQDZMBJNNFWJSAAVBHSSYWMvdCHCMFQSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    Cancer is often viewed as a caricature of normal developmental processes,
+  but the extent to which its cellular heterogeneity truly recapitulates
+  multilineage differentiation processes of normal tissues remains unknown.
+  Here we implement single-cell {PCR} gene-expression analysis to dissect the
+  cellular composition of primary human normal colon and colon cancer
+  epithelia. We show that human colon cancer tissues contain distinct cell
+  populations whose transcriptional identities mirror those of the different
+  cellular lineages of normal colon. By creating monoclonal tumor xenografts
+  from injection of a single (n = 1) cell, we demonstrate that the
+  transcriptional diversity of cancer tissues is largely explained by in vivo
+  multilineage differentiation and not only by clonal genetic heterogeneity.
+  Finally, we show that the different gene-expression programs linked to
+  multilineage differentiation are strongly associated with patient survival.
+  We develop two-gene classifier systems ({KRT}20 versus {CA}1, {MS}4A12,
+  {CD}177, {SLC}26A3) that predict clinical outcomes with hazard ratios
+  superior to those of pathological grade and comparable to those of
+  microarray-derived multigene expression signatures.%
+    }
+    \verb{doi}
+    \verb 10.1038/nbt.2038
+    \endverb
+    \field{issn}{1546-1696}
+    \field{number}{12}
+    \field{pages}{1120\bibrangedash 1127}
+    \field{title}{Single-cell dissection of transcriptional heterogeneity in
+  human colon tumors}
+    \field{volume}{29}
+    \field{journaltitle}{Nat. Biotechnol.}
+    \field{day}{13}
+    \field{month}{11}
+    \field{year}{2011}
+  \endentry
+
+  \entry{ferrell_bistability_2012}{article}{}
+    \name{author}{1}{}{%
+      {{hash=FJE}{%
+         family={Ferrell},
+         familyi={F\bibinitperiod},
+         given={James\bibnamedelima E.},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \keyw{Animals, Cell Differentiation, Developmental Biology, Epigenesis,
+  Genetic, Models, Biological, 细胞路径}
+    \strng{namehash}{FJE1}
+    \strng{fullhash}{FJE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    Waddington's epigenetic landscape is probably the most famous and most
+  powerful metaphor in developmental biology. Cells, represented by balls, roll
+  downhill through a landscape of bifurcating valleys. Each new valley
+  represents a possible cell fate and the ridges between the valleys maintain
+  the cell fate once it has been chosen. Here I examine models of two important
+  developmental processes - cell-fate induction and lateral inhibition - and
+  ask whether the landscapes for these models at least qualitatively resemble
+  Waddington's picture. For cell-fate induction, the answer is no. The
+  commitment of a cell to a new fate corresponds to the disappearance of a
+  valley from the landscape, not the splitting of one valley into two, and it
+  occurs through a type of bifurcation - a saddle-node bifurcation - that
+  possesses an intrinsic irreversibility that is missing from Waddington's
+  picture. Lateral inhibition, a symmetrical cell-cell competition process,
+  corresponds better to Waddington's picture, with one valley reversibly
+  splitting into two through a pitchfork bifurcation. I propose an alternative
+  epigenetic landscape that has numerous valleys and ridges right from the
+  start, with the process of cell-fate commitment corresponding to the
+  irreversible disappearance of some of these valleys and ridges, via cell-fate
+  induction, complemented by the creation of new valleys and ridges through
+  processes like cell-cell competition.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.cub.2012.03.045
+    \endverb
+    \field{issn}{1879-0445}
+    \field{number}{11}
+    \field{pages}{R458\bibrangedash 466}
+    \field{title}{Bistability, bifurcations, and Waddington's epigenetic
+  landscape}
+    \field{volume}{22}
+    \verb{file}
+    \verb Accepted Version:/Users/guosiyuan/Zotero/storage/5EJBVIS3/Ferrell - 2
+    \verb 012 - Bistability, bifurcations, and Waddington's epigen.pdf:applicat
+    \verb ion/pdf
+    \endverb
+    \field{journaltitle}{Curr. Biol.}
+    \field{day}{05}
+    \field{month}{06}
+    \field{year}{2012}
+  \endentry
+
+  \entry{jan_clonal_2012}{article}{}
+    \name{author}{7}{}{%
+      {{hash=JM}{%
+         family={Jan},
+         familyi={J\bibinitperiod},
+         given={Max},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=STM}{%
+         family={Snyder},
+         familyi={S\bibinitperiod},
+         given={Thomas\bibnamedelima M.},
+         giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=CZMR}{%
+         family={Corces-Zimmerman},
+         familyi={C\bibinithyphendelim Z\bibinitperiod},
+         given={M.\bibnamedelima Ryan},
+         giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=VP}{%
+         family={Vyas},
+         familyi={V\bibinitperiod},
+         given={Paresh},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=WIL}{%
+         family={Weissman},
+         familyi={W\bibinitperiod},
+         given={Irving\bibnamedelima L.},
+         giveni={I\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=QSR}{%
+         family={Quake},
+         familyi={Q\bibinitperiod},
+         given={Stephen\bibnamedelima R.},
+         giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={Majeti},
+         familyi={M\bibinitperiod},
+         given={Ravindra},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \keyw{Humans, Animals, Mice, Leukemia, Myeloid, Acute, Neoplastic Stem
+  Cells, Hematopoietic Stem Cells, Prognosis, Cell Proliferation, Clonal
+  Evolution, Mutation, {DNA} Mutational Analysis, Exome, Flow Cytometry,
+  Preleukemia, Cell Cycle Proteins, Cell Lineage, Cell Separation, Chromosomal
+  Proteins, Non-Histone, {DNA}-Binding Proteins, fms-Like Tyrosine Kinase 3,
+  Founder Effect, Gene Expression Regulation, Leukemic, Genetic Markers,
+  Genetic Predisposition to Disease, Hematopoietic Stem Cell Transplantation,
+  Nuclear Proteins, Phenotype, Proto-Oncogene Proteins}
+    \strng{namehash}{JM+1}
+    \strng{fullhash}{JMSTMCZMRVPWILQSRMR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    Given that most bone marrow cells are short-lived, the accumulation of
+  multiple leukemogenic mutations in a single clonal lineage has been difficult
+  to explain. We propose that serial acquisition of mutations occurs in
+  self-renewing hematopoietic stem cells ({HSCs}). We investigated this model
+  through genomic analysis of {HSCs} from six patients with de novo acute
+  myeloid leukemia ({AML}). Using exome sequencing, we identified mutations
+  present in individual {AML} patients harboring the {FLT}3-{ITD} (internal
+  tandem duplication) mutation. We then screened the residual {HSCs} and
+  detected some of these mutations including mutations in the {NPM}1, {TET}2,
+  and {SMC}1A genes. Finally, through single-cell analysis, we determined that
+  a clonal progression of multiple mutations occurred in the {HSCs} of some
+  {AML} patients. These preleukemic {HSCs} suggest the clonal evolution of
+  {AML} genomes from founder mutations, revealing a potential mechanism
+  contributing to relapse. Such preleukemic {HSCs} may constitute a cellular
+  reservoir that should be targeted therapeutically for more durable
+  remissions.%
+    }
+    \verb{doi}
+    \verb 10.1126/scitranslmed.3004315
+    \endverb
+    \field{issn}{1946-6242}
+    \field{number}{149}
+    \field{pages}{149ra118}
+    \field{title}{Clonal evolution of preleukemic hematopoietic stem cells
+  precedes human acute myeloid leukemia}
+    \field{volume}{4}
+    \field{journaltitle}{Sci Transl Med}
+    \field{day}{29}
+    \field{month}{08}
+    \field{year}{2012}
+  \endentry
+
+  \entry{bendall_single-cell_2014}{article}{}
+    \name{author}{9}{}{%
+      {{hash=BS}{%
+         family={Bendall},
+         familyi={B\bibinitperiod},
+         given={Sean C.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=DK}{%
+         family={Davis},
+         familyi={D\bibinitperiod},
+         given={Kara L.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=AEa}{%
+         family={Amir},
+         familyi={A\bibinitperiod},
+         given={El-ad David},
+         giveni={E\bibinithyphendelim a\bibinitperiod},
+      }}%
+      {{hash=TM}{%
+         family={Tadmor},
+         familyi={T\bibinitperiod},
+         given={Michelle D.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Simonds},
+         familyi={S\bibinitperiod},
+         given={Erin F.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=CT}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Tiffany J.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Shenfeld},
+         familyi={S\bibinitperiod},
+         given={Daniel K.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=NG}{%
+         family={Nolan},
+         familyi={N\bibinitperiod},
+         given={Garry P.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=PD}{%
+         family={Pe’er},
+         familyi={P\bibinitperiod},
+         given={Dana},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \keyw{Wishbone, B-cell}
+    \strng{namehash}{BS+1}
+    \strng{fullhash}{BSDKAEaTMSECTSDNGPD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1016/j.cell.2014.04.005
+    \endverb
+    \field{issn}{00928674}
+    \field{number}{3}
+    \field{pages}{714\bibrangedash 725}
+    \field{title}{Single-Cell Trajectory Detection Uncovers Progression and
+  Regulatory Coordination in Human B Cell Development}
+    \verb{url}
+    \verb https://linkinghub.elsevier.com/retrieve/pii/S0092867414004711
+    \endverb
+    \field{volume}{157}
+    \field{langid}{english}
+    \field{journaltitle}{Cell}
+    \field{month}{04}
+    \field{year}{2014}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{corces-zimmerman_preleukemic_2014}{article}{}
+    \name{author}{5}{}{%
+      {{hash=CZMR}{%
+         family={Corces-Zimmerman},
+         familyi={C\bibinithyphendelim Z\bibinitperiod},
+         given={M.\bibnamedelima Ryan},
+         giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=HWJ}{%
+         family={Hong},
+         familyi={H\bibinitperiod},
+         given={Wan-Jen},
+         giveni={W\bibinithyphendelim J\bibinitperiod},
+      }}%
+      {{hash=WIL}{%
+         family={Weissman},
+         familyi={W\bibinitperiod},
+         given={Irving\bibnamedelima L.},
+         giveni={I\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=MBC}{%
+         family={Medeiros},
+         familyi={M\bibinitperiod},
+         given={Bruno\bibnamedelima C.},
+         giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={Majeti},
+         familyi={M\bibinitperiod},
+         given={Ravindra},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \keyw{Humans, Epigenesis, Genetic, Models, Biological, Leukemia, Myeloid,
+  Acute, Base Sequence, Hematopoietic Stem Cells, Clonal Evolution, Mutation,
+  Sequence Analysis, {DNA}, clonal evolution, Exome, Molecular Sequence Data,
+  Antigens, {CD}34, Flow Cytometry, Genotype, preleukemia, Preleukemia}
+    \strng{namehash}{CZMR+1}
+    \strng{fullhash}{CZMRHWJWILMBCMR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    Cancer is widely characterized by the sequential acquisition of genetic
+  lesions in a single lineage of cells. Our previous studies have shown that,
+  in acute myeloid leukemia ({AML}), mutation acquisition occurs in
+  functionally normal hematopoietic stem cells ({HSCs}). These preleukemic
+  {HSCs} harbor some, but not all, of the mutations found in the leukemic
+  cells. We report here the identification of patterns of mutation acquisition
+  in human {AML}. Our findings support a model in which mutations in
+  "landscaping" genes, involved in global chromatin changes such as {DNA}
+  methylation, histone modification, and chromatin looping, occur early in the
+  evolution of {AML}, whereas mutations in "proliferative" genes occur late.
+  Additionally, we analyze the persistence of preleukemic mutations in patients
+  in remission and find {CD}34+ progenitor cells and various mature cells that
+  harbor preleukemic mutations. These findings indicate that preleukemic {HSCs}
+  can survive induction chemotherapy, identifying these cells as a reservoir
+  for the reevolution of relapsed disease. Finally, through the study of
+  several cases of relapsed {AML}, we demonstrate various evolutionary patterns
+  for the generation of relapsed disease and show that some of these patterns
+  are consistent with involvement of preleukemic {HSCs}. These findings provide
+  key insights into the monitoring of minimal residual disease and the
+  identification of therapeutic targets in human {AML}.%
+    }
+    \verb{doi}
+    \verb 10.1073/pnas.1324297111
+    \endverb
+    \field{issn}{1091-6490}
+    \field{number}{7}
+    \field{pages}{2548\bibrangedash 2553}
+    \field{title}{Preleukemic mutations in human acute myeloid leukemia affect
+  epigenetic regulators and persist in remission}
+    \field{volume}{111}
+    \field{journaltitle}{Proc. Natl. Acad. Sci. U.S.A.}
+    \field{day}{18}
+    \field{month}{02}
+    \field{year}{2014}
+  \endentry
+
+  \entry{etzrodt_quantitative_2014}{article}{}
+    \name{author}{3}{}{%
+      {{hash=EM}{%
+         family={Etzrodt},
+         familyi={E\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=EM}{%
+         family={Endele},
+         familyi={E\bibinitperiod},
+         given={Max},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=ST}{%
+         family={Schroeder},
+         familyi={S\bibinitperiod},
+         given={Timm},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \keyw{ref2}
+    \strng{namehash}{EMEMST1}
+    \strng{fullhash}{EMEMST1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1016/j.stem.2014.10.015
+    \endverb
+    \field{issn}{19345909}
+    \field{number}{5}
+    \field{pages}{546\bibrangedash 558}
+    \field{title}{Quantitative Single-Cell Approaches to Stem Cell Research}
+    \verb{url}
+    \verb https://linkinghub.elsevier.com/retrieve/pii/S1934590914004664
+    \endverb
+    \field{volume}{15}
+    \field{langid}{english}
+    \field{journaltitle}{Cell Stem Cell}
+    \field{month}{11}
+    \field{year}{2014}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{gawad_dissecting_2014}{article}{}
+    \name{author}{3}{}{%
+      {{hash=GC}{%
+         family={Gawad},
+         familyi={G\bibinitperiod},
+         given={Charles},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=KW}{%
+         family={Koh},
+         familyi={K\bibinitperiod},
+         given={Winston},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=QSR}{%
+         family={Quake},
+         familyi={Q\bibinitperiod},
+         given={Stephen\bibnamedelima R.},
+         giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \keyw{Humans, Single-Cell Analysis, Child, Base Sequence, Genomics, Genetic
+  Variation, Sequence Analysis, {DNA}, acute lymphoblastic leukemia, clonal
+  evolution, Clone Cells, cytosine mutagenesis, {DNA} Mutational Analysis,
+  Exome, intratumor heterogeneity, Microfluidic Analytical Techniques,
+  Molecular Sequence Data, Polymorphism, Single Nucleotide, Precursor Cell
+  Lymphoblastic Leukemia-Lymphoma, single-cell genomics}
+    \strng{namehash}{GCKWQSR1}
+    \strng{fullhash}{GCKWQSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    Many cancers have substantial genomic heterogeneity within a given tumor,
+  and to fully understand that diversity requires the ability to perform single
+  cell analysis. We performed targeted sequencing of a panel of single
+  nucleotide variants ({SNVs}), deletions, and {IgH} sequences in 1,479 single
+  tumor cells from six acute lymphoblastic leukemia ({ALL}) patients. By
+  accurately segregating groups of cooccurring mutations into distinct clonal
+  populations, we identified codominant clones in the majority of patients.
+  Evaluation of intraclonal mutation patterns identified clone-specific
+  punctuated cytosine mutagenesis events, showed that most structural variants
+  are acquired before {SNVs}, determined that {KRAS} mutations occur late in
+  disease development but are not sufficient for clonal dominance, and
+  identified clones within the same patient that are arrested at varied stages
+  in B-cell development. Taken together, these data order the sequence of
+  genetic events that underlie childhood {ALL} and provide a framework for
+  understanding the development of the disease at single-cell resolution.%
+    }
+    \verb{doi}
+    \verb 10.1073/pnas.1420822111
+    \endverb
+    \field{issn}{1091-6490}
+    \field{number}{50}
+    \field{pages}{17947\bibrangedash 17952}
+    \field{title}{Dissecting the clonal origins of childhood acute
+  lymphoblastic leukemia by single-cell genomics}
+    \field{volume}{111}
+    \field{journaltitle}{Proc. Natl. Acad. Sci. U.S.A.}
+    \field{day}{16}
+    \field{month}{12}
+    \field{year}{2014}
+  \endentry
+
+  \entry{henry_omictools:_2014}{article}{}
+    \name{author}{5}{}{%
+      {{hash=HVJ}{%
+         family={Henry},
+         familyi={H\bibinitperiod},
+         given={V.\bibnamedelima J.},
+         giveni={V\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BAE}{%
+         family={Bandrowski},
+         familyi={B\bibinitperiod},
+         given={A.\bibnamedelima E.},
+         giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=PAS}{%
+         family={Pepin},
+         familyi={P\bibinitperiod},
+         given={A.-S.},
+         giveni={A\bibinithyphendelim S\bibinitperiod},
+      }}%
+      {{hash=GBJ}{%
+         family={Gonzalez},
+         familyi={G\bibinitperiod},
+         given={B.\bibnamedelima J.},
+         giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={Desfeux},
+         familyi={D\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Omictools.org}
+    \strng{namehash}{HVJ+1}
+    \strng{fullhash}{HVJBAEPASGBJDA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1093/database/bau069
+    \endverb
+    \field{issn}{1758-0463}
+    \field{number}{0}
+    \field{pages}{bau069\bibrangedash bau069}
+    \field{shorttitle}{{OMICtools}}
+    \field{title}{{OMICtools}: an informative directory for multi-omic data
+  analysis}
+    \verb{url}
+    \verb https://academic.oup.com/database/article-lookup/doi/10.1093/database
+    \verb /bau069
+    \endverb
+    \field{volume}{2014}
+    \field{langid}{english}
+    \verb{file}
+    \verb Full Text:/Users/guosiyuan/Zotero/storage/CDUKSLZH/Henry et al. - 201
+    \verb 4 - OMICtools an informative directory for multi-omic.pdf:application
+    \verb /pdf
+    \endverb
+    \field{journaltitle}{Database}
+    \field{day}{14}
+    \field{month}{07}
+    \field{year}{2014}
+    \field{urlday}{24}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{marco_bifurcation_2014}{article}{}
+    \name{author}{7}{}{%
+      {{hash=ME}{%
+         family={Marco},
+         familyi={M\bibinitperiod},
+         given={Eugenio},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=KRL}{%
+         family={Karp},
+         familyi={K\bibinitperiod},
+         given={Robert\bibnamedelima L.},
+         giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=GG}{%
+         family={Guo},
+         familyi={G\bibinitperiod},
+         given={Guoji},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=RP}{%
+         family={Robson},
+         familyi={R\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=HAH}{%
+         family={Hart},
+         familyi={H\bibinitperiod},
+         given={Adam\bibnamedelima H.},
+         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=TL}{%
+         family={Trippa},
+         familyi={T\bibinitperiod},
+         given={Lorenzo},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=YGC}{%
+         family={Yuan},
+         familyi={Y\bibinitperiod},
+         given={Guo-Cheng},
+         giveni={G\bibinithyphendelim C\bibinitperiod},
+      }}%
+    }
+    \keyw{{SCUBA}}
+    \strng{namehash}{ME+1}
+    \strng{fullhash}{MEKRLGGRPHAHTLYGC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1073/pnas.1408993111
+    \endverb
+    \field{issn}{0027-8424, 1091-6490}
+    \field{number}{52}
+    \field{pages}{E5643\bibrangedash E5650}
+    \field{title}{Bifurcation analysis of single-cell gene expression data
+  reveals epigenetic landscape}
+    \verb{url}
+    \verb http://www.pnas.org/lookup/doi/10.1073/pnas.1408993111
+    \endverb
+    \field{volume}{111}
+    \field{langid}{english}
+    \verb{file}
+    \verb Full Text:/Users/guosiyuan/Zotero/storage/WYTYJXAV/Marco et al. - 201
+    \verb 4 - Bifurcation analysis of single-cell gene expressio.pdf:applicatio
+    \verb n/pdf
+    \endverb
+    \field{journaltitle}{Proc Natl Acad Sci {USA}}
+    \field{day}{30}
+    \field{month}{12}
+    \field{year}{2014}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{patel_single-cell_2014}{article}{}
+    \name{author}{15}{}{%
+      {{hash=PAP}{%
+         family={Patel},
+         familyi={P\bibinitperiod},
+         given={Anoop\bibnamedelima P.},
+         giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=TI}{%
+         family={Tirosh},
+         familyi={T\bibinitperiod},
+         given={Itay},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=TJJ}{%
+         family={Trombetta},
+         familyi={T\bibinitperiod},
+         given={John\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=SAK}{%
+         family={Shalek},
+         familyi={S\bibinitperiod},
+         given={Alex\bibnamedelima K.},
+         giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=GSM}{%
+         family={Gillespie},
+         familyi={G\bibinitperiod},
+         given={Shawn\bibnamedelima M.},
+         giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=WH}{%
+         family={Wakimoto},
+         familyi={W\bibinitperiod},
+         given={Hiroaki},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=CDP}{%
+         family={Cahill},
+         familyi={C\bibinitperiod},
+         given={Daniel\bibnamedelima P.},
+         giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=NBV}{%
+         family={Nahed},
+         familyi={N\bibinitperiod},
+         given={Brian\bibnamedelima V.},
+         giveni={B\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=CWT}{%
+         family={Curry},
+         familyi={C\bibinitperiod},
+         given={William\bibnamedelima T.},
+         giveni={W\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=MRL}{%
+         family={Martuza},
+         familyi={M\bibinitperiod},
+         given={Robert\bibnamedelima L.},
+         giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=LDN}{%
+         family={Louis},
+         familyi={L\bibinitperiod},
+         given={David\bibnamedelima N.},
+         giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=RRO}{%
+         family={Rozenblatt-Rosen},
+         familyi={R\bibinithyphendelim R\bibinitperiod},
+         given={Orit},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=SML}{%
+         family={Suvà},
+         familyi={S\bibinitperiod},
+         given={Mario\bibnamedelima L.},
+         giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Regev},
+         familyi={R\bibinitperiod},
+         given={Aviv},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BBE}{%
+         family={Bernstein},
+         familyi={B\bibinitperiod},
+         given={Bradley\bibnamedelima E.},
+         giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \keyw{Humans, Sequence Analysis, {RNA}, Single-Cell Analysis, Gene
+  Expression Profiling, Brain Neoplasms, Genetic Variation, Glioblastoma,
+  Prognosis, {RNA}, Messenger}
+    \strng{namehash}{PAP+1}
+    \strng{fullhash}{PAPTITJJSAKGSMWHCDPNBVCWTMRLLDNRROSMLRABBE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    Human cancers are complex ecosystems composed of cells with distinct
+  phenotypes, genotypes, and epigenetic states, but current models do not
+  adequately reflect tumor composition in patients. We used single-cell {RNA}
+  sequencing ({RNA}-seq) to profile 430 cells from five primary glioblastomas,
+  which we found to be inherently variable in their expression of diverse
+  transcriptional programs related to oncogenic signaling, proliferation,
+  complement/immune response, and hypoxia. We also observed a continuum of
+  stemness-related expression states that enabled us to identify putative
+  regulators of stemness in vivo. Finally, we show that established
+  glioblastoma subtype classifiers are variably expressed across individual
+  cells within a tumor and demonstrate the potential prognostic implications of
+  such intratumoral heterogeneity. Thus, we reveal previously unappreciated
+  heterogeneity in diverse regulatory programs central to glioblastoma biology,
+  prognosis, and therapy.%
+    }
+    \verb{doi}
+    \verb 10.1126/science.1254257
+    \endverb
+    \field{issn}{1095-9203}
+    \field{number}{6190}
+    \field{pages}{1396\bibrangedash 1401}
+    \field{title}{Single-cell {RNA}-seq highlights intratumoral heterogeneity
+  in primary glioblastoma}
+    \field{volume}{344}
+    \field{journaltitle}{Science}
+    \field{day}{20}
+    \field{month}{06}
+    \field{year}{2014}
+  \endentry
+
+  \entry{trapnell_dynamics_2014}{article}{}
+    \name{author}{10}{}{%
+      {{hash=TC}{%
+         family={Trapnell},
+         familyi={T\bibinitperiod},
+         given={Cole},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=CD}{%
+         family={Cacchiarelli},
+         familyi={C\bibinitperiod},
+         given={Davide},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=GJ}{%
+         family={Grimsby},
+         familyi={G\bibinitperiod},
+         given={Jonna},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=PP}{%
+         family={Pokharel},
+         familyi={P\bibinitperiod},
+         given={Prapti},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Shuqiang},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Morse},
+         familyi={M\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LNJ}{%
+         family={Lennon},
+         familyi={L\bibinitperiod},
+         given={Niall\bibnamedelima J},
+         giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=LKJ}{%
+         family={Livak},
+         familyi={L\bibinitperiod},
+         given={Kenneth\bibnamedelima J},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=MTS}{%
+         family={Mikkelsen},
+         familyi={M\bibinitperiod},
+         given={Tarjei\bibnamedelima S},
+         giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=RJL}{%
+         family={Rinn},
+         familyi={R\bibinitperiod},
+         given={John\bibnamedelima L},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \keyw{Monocle1, Monocle {ICA}, {MST}}
+    \strng{namehash}{TC+1}
+    \strng{fullhash}{TCCDGJPPLSMMLNJLKJMTSRJL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1038/nbt.2859
+    \endverb
+    \field{issn}{1087-0156, 1546-1696}
+    \field{number}{4}
+    \field{pages}{381\bibrangedash 386}
+    \field{title}{The dynamics and regulators of cell fate decisions are
+  revealed by pseudotemporal ordering of single cells}
+    \verb{url}
+    \verb http://www.nature.com/articles/nbt.2859
+    \endverb
+    \field{volume}{32}
+    \field{langid}{english}
+    \verb{file}
+    \verb Accepted Version:/Users/guosiyuan/Zotero/storage/HHDLRP47/Trapnell et
+    \verb  al. - 2014 - The dynamics and regulators of cell fate decisions.pdf:
+    \verb application/pdf
+    \endverb
+    \field{journaltitle}{Nat Biotechnol}
+    \field{month}{04}
+    \field{year}{2014}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{wang_clonal_2014}{article}{}
+    \name{author}{16}{}{%
+      {{hash=WY}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Yong},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Waters},
+         familyi={W\bibinitperiod},
+         given={Jill},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LML}{%
+         family={Leung},
+         familyi={L\bibinitperiod},
+         given={Marco\bibnamedelima L.},
+         giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=UA}{%
+         family={Unruh},
+         familyi={U\bibinitperiod},
+         given={Anna},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RW}{%
+         family={Roh},
+         familyi={R\bibinitperiod},
+         given={Whijae},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=SX}{%
+         family={Shi},
+         familyi={S\bibinitperiod},
+         given={Xiuqing},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=CK}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Ken},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Scheet},
+         familyi={S\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=VS}{%
+         family={Vattathil},
+         familyi={V\bibinitperiod},
+         given={Selina},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LH}{%
+         family={Liang},
+         familyi={L\bibinitperiod},
+         given={Han},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Multani},
+         familyi={M\bibinitperiod},
+         given={Asha},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=ZH}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Hong},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=ZR}{%
+         family={Zhao},
+         familyi={Z\bibinitperiod},
+         given={Rui},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Michor},
+         familyi={M\bibinitperiod},
+         given={Franziska},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=MBF}{%
+         family={Meric-Bernstam},
+         familyi={M\bibinithyphendelim B\bibinitperiod},
+         given={Funda},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=NNE}{%
+         family={Navin},
+         familyi={N\bibinitperiod},
+         given={Nicholas\bibnamedelima E.},
+         giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \keyw{Humans, Single-Cell Analysis, Genetic Variation, Breast Neoplasms,
+  Female, Cell Line, Tumor, Clonal Evolution, {DNA} Fingerprinting, Genome,
+  Models, Theoretical, Mutation, Sequence Analysis, {DNA}, Triple Negative
+  Breast Neoplasms}
+    \strng{namehash}{WY+1}
+    \strng{fullhash}{WYWJLMLUARWSXCKSPVSLHMAZHZRMFMBFNNE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    Sequencing studies of breast tumour cohorts have identified many prevalent
+  mutations, but provide limited insight into the genomic diversity within
+  tumours. Here we developed a whole-genome and exome single cell sequencing
+  approach called nuc-seq that uses G2/M nuclei to achieve 91\% mean coverage
+  breadth. We applied this method to sequence single normal and tumour nuclei
+  from an oestrogen-receptor-positive ({ER}(+)) breast cancer and a
+  triple-negative ductal carcinoma. In parallel, we performed single nuclei
+  copy number profiling. Our data show that aneuploid rearrangements occurred
+  early in tumour evolution and remained highly stable as the tumour masses
+  clonally expanded. In contrast, point mutations evolved gradually, generating
+  extensive clonal diversity. Using targeted single-molecule sequencing, many
+  of the diverse mutations were shown to occur at low frequencies
+  ({\textless}10\%) in the tumour mass. Using mathematical modelling we found
+  that the triple-negative tumour cells had an increased mutation rate
+  (13.3×), whereas the {ER}(+) tumour cells did not. These findings have
+  important implications for the diagnosis, therapeutic treatment and evolution
+  of chemoresistance in breast cancer.%
+    }
+    \verb{doi}
+    \verb 10.1038/nature13600
+    \endverb
+    \field{issn}{1476-4687}
+    \field{number}{7513}
+    \field{pages}{155\bibrangedash 160}
+    \field{title}{Clonal evolution in breast cancer revealed by single nucleus
+  genome sequencing}
+    \field{volume}{512}
+    \field{journaltitle}{Nature}
+    \field{day}{14}
+    \field{month}{08}
+    \field{year}{2014}
+  \endentry
+
+  \entry{campbell_laplacian_2015}{report}{}
+    \name{author}{3}{}{%
+      {{hash=CK}{%
+         family={Campbell},
+         familyi={C\bibinitperiod},
+         given={Kieran},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=PCP}{%
+         family={Ponting},
+         familyi={P\bibinitperiod},
+         given={Chris\bibnamedelima P},
+         giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=WC}{%
+         family={Webber},
+         familyi={W\bibinitperiod},
+         given={Caleb},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \keyw{Embeddr}
+    \strng{namehash}{CKPCPWC1}
+    \strng{fullhash}{CKPCPWC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    Advances in {RNA}-seq technologies provide unprecedented insight into the
+  variability and heterogeneity of gene expression at the single-cell level.
+  However, such data offers only a snapshot of the transcriptome, whereas it is
+  often the progression of cells through dynamic biological processes that is
+  of interest. As a result, one outstanding challenge is to infer such
+  progressions by ordering gene expression from single cell data alone, known
+  as the cell ordering problem. Here, we introduce a new method that constructs
+  a low-dimensional non-linear embedding of the data using laplacian eigenmaps
+  before assigning each cell a pseudotime using principal curves. We
+  characterise why on a theoretical level our method is more robust to the high
+  levels of noise typical of single-cell {RNA}-seq data before demonstrating
+  its utility on two existing datasets of differentiating cells.%
+    }
+    \verb{doi}
+    \verb 10.1101/027219
+    \endverb
+    \field{title}{Laplacian eigenmaps and principal curves for high resolution
+  pseudotemporal ordering of single-cell {RNA}-seq profiles}
+    \verb{url}
+    \verb http://biorxiv.org/lookup/doi/10.1101/027219
+    \endverb
+    \field{langid}{english}
+    \list{institution}{1}{%
+      {Bioinformatics}%
+    }
+    \field{type}{preprint}
+    \field{day}{18}
+    \field{month}{09}
+    \field{year}{2015}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{haghverdi_diffusion_2015}{article}{}
+    \name{author}{3}{}{%
+      {{hash=HL}{%
+         family={Haghverdi},
+         familyi={H\bibinitperiod},
+         given={Laleh},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=BF}{%
+         family={Buettner},
+         familyi={B\bibinitperiod},
+         given={Florian},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=TFJ}{%
+         family={Theis},
+         familyi={T\bibinitperiod},
+         given={Fabian\bibnamedelima J.},
+         giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \keyw{胚胎发育}
+    \strng{namehash}{HLBFTFJ1}
+    \strng{fullhash}{HLBFTFJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1093/bioinformatics/btv325
+    \endverb
+    \field{issn}{1367-4803, 1460-2059}
+    \field{number}{18}
+    \field{pages}{2989\bibrangedash 2998}
+    \field{title}{Diffusion maps for high-dimensional single-cell analysis of
+  differentiation data}
+    \verb{url}
+    \verb https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bi
+    \verb oinformatics/btv325
+    \endverb
+    \field{volume}{31}
+    \field{langid}{english}
+    \field{journaltitle}{Bioinformatics}
+    \field{day}{15}
+    \field{month}{09}
+    \field{year}{2015}
+    \field{urlday}{23}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{levine_data-driven_2015}{article}{}
+    \name{author}{16}{}{%
+      {{hash=LJH}{%
+         family={Levine},
+         familyi={L\bibinitperiod},
+         given={Jacob\bibnamedelima H.},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=SEF}{%
+         family={Simonds},
+         familyi={S\bibinitperiod},
+         given={Erin\bibnamedelima F.},
+         giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=BSC}{%
+         family={Bendall},
+         familyi={B\bibinitperiod},
+         given={Sean\bibnamedelima C.},
+         giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=DKL}{%
+         family={Davis},
+         familyi={D\bibinitperiod},
+         given={Kara\bibnamedelima L.},
+         giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=AEaD}{%
+         family={Amir},
+         familyi={A\bibinitperiod},
+         given={El-ad\bibnamedelima D.},
+         giveni={E\bibinithyphendelim a\bibinitperiod\bibinitdelim
+  D\bibinitperiod},
+      }}%
+      {{hash=TMD}{%
+         family={Tadmor},
+         familyi={T\bibinitperiod},
+         given={Michelle\bibnamedelima D.},
+         giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=LO}{%
+         family={Litvin},
+         familyi={L\bibinitperiod},
+         given={Oren},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=FHG}{%
+         family={Fienberg},
+         familyi={F\bibinitperiod},
+         given={Harris\bibnamedelima G.},
+         giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=JA}{%
+         family={Jager},
+         familyi={J\bibinitperiod},
+         given={Astraea},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=ZER}{%
+         family={Zunder},
+         familyi={Z\bibinitperiod},
+         given={Eli\bibnamedelima R.},
+         giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=FR}{%
+         family={Finck},
+         familyi={F\bibinitperiod},
+         given={Rachel},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=GAL}{%
+         family={Gedman},
+         familyi={G\bibinitperiod},
+         given={Amanda\bibnamedelima L.},
+         giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=RI}{%
+         family={Radtke},
+         familyi={R\bibinitperiod},
+         given={Ina},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=DJR}{%
+         family={Downing},
+         familyi={D\bibinitperiod},
+         given={James\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=PD}{%
+         family={Pe'er},
+         familyi={P\bibinitperiod},
+         given={Dana},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=NGP}{%
+         family={Nolan},
+         familyi={N\bibinitperiod},
+         given={Garry\bibnamedelima P.},
+         giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \keyw{Humans, Single-Cell Analysis, Transcriptome, Bone Marrow, Child,
+  Cohort Studies, Computational Biology, Genetic Heterogeneity, Leukemia,
+  Myeloid, Acute, Neoplastic Stem Cells, 造血系统}
+    \strng{namehash}{LJH+1}
+    \strng{fullhash}{LJHSEFBSCDKLAEaDTMDLOFHGJAZERFRGALRIDJRPDNGP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    Acute myeloid leukemia ({AML}) manifests as phenotypically and functionally
+  diverse cells, often within the same patient. Intratumor phenotypic and
+  functional heterogeneity have been linked primarily by physical sorting
+  experiments, which assume that functionally distinct subpopulations can be
+  prospectively isolated by surface phenotypes. This assumption has proven
+  problematic, and we therefore developed a data-driven approach. Using mass
+  cytometry, we profiled surface and intracellular signaling proteins
+  simultaneously in millions of healthy and leukemic cells. We developed
+  {PhenoGraph}, which algorithmically defines phenotypes in high-dimensional
+  single-cell data. {PhenoGraph} revealed that the surface phenotypes of
+  leukemic blasts do not necessarily reflect their intracellular state. Using
+  hematopoietic progenitors, we defined a signaling-based measure of cellular
+  phenotype, which led to isolation of a gene expression signature that was
+  predictive of survival in independent cohorts. This study presents new
+  methods for large-scale analysis of single-cell heterogeneity and
+  demonstrates their utility, yielding insights into {AML} pathophysiology.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.cell.2015.05.047
+    \endverb
+    \field{issn}{1097-4172}
+    \field{number}{1}
+    \field{pages}{184\bibrangedash 197}
+    \field{title}{Data-Driven Phenotypic Dissection of {AML} Reveals
+  Progenitor-like Cells that Correlate with Prognosis}
+    \field{volume}{162}
+    \verb{file}
+    \verb Accepted Version:/Users/guosiyuan/Zotero/storage/99IPNHY3/Levine et a
+    \verb l. - 2015 - Data-Driven Phenotypic Dissection of AML Reveals P.pdf:ap
+    \verb plication/pdf
+    \endverb
+    \field{journaltitle}{Cell}
+    \field{day}{02}
+    \field{month}{07}
+    \field{year}{2015}
+  \endentry
+
+  \entry{paul_transcriptional_2015}{article}{}
+    \name{author}{22}{}{%
+      {{hash=PF}{%
+         family={Paul},
+         familyi={P\bibinitperiod},
+         given={Franziska},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=AY}{%
+         family={Arkin},
+         familyi={A\bibinitperiod},
+         given={Ya'ara},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Giladi},
+         familyi={G\bibinitperiod},
+         given={Amir},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=JDA}{%
+         family={Jaitin},
+         familyi={J\bibinitperiod},
+         given={Diego\bibnamedelima Adhemar},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=KE}{%
+         family={Kenigsberg},
+         familyi={K\bibinitperiod},
+         given={Ephraim},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=KSH}{%
+         family={Keren-Shaul},
+         familyi={K\bibinithyphendelim S\bibinitperiod},
+         given={Hadas},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=WD}{%
+         family={Winter},
+         familyi={W\bibinitperiod},
+         given={Deborah},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=LAD}{%
+         family={Lara-Astiaso},
+         familyi={L\bibinithyphendelim A\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Gury},
+         familyi={G\bibinitperiod},
+         given={Meital},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=WA}{%
+         family={Weiner},
+         familyi={W\bibinitperiod},
+         given={Assaf},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DE}{%
+         family={David},
+         familyi={D\bibinitperiod},
+         given={Eyal},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=CN}{%
+         family={Cohen},
+         familyi={C\bibinitperiod},
+         given={Nadav},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=LFKB}{%
+         family={Lauridsen},
+         familyi={L\bibinitperiod},
+         given={Felicia Kathrine\bibnamedelima Bratt},
+         giveni={F\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
+  B\bibinitperiod},
+      }}%
+      {{hash=HS}{%
+         family={Haas},
+         familyi={H\bibinitperiod},
+         given={Simon},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Schlitzer},
+         familyi={S\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Mildner},
+         familyi={M\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GF}{%
+         family={Ginhoux},
+         familyi={G\bibinitperiod},
+         given={Florent},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=JS}{%
+         family={Jung},
+         familyi={J\bibinitperiod},
+         given={Steffen},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=TA}{%
+         family={Trumpp},
+         familyi={T\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PBT}{%
+         family={Porse},
+         familyi={P\bibinitperiod},
+         given={Bo\bibnamedelima Torben},
+         giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=TA}{%
+         family={Tanay},
+         familyi={T\bibinitperiod},
+         given={Amos},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=AI}{%
+         family={Amit},
+         familyi={A\bibinitperiod},
+         given={Ido},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \keyw{骨髓细胞, Animals, Bone Marrow Transplantation,
+  {CCAAT}-Enhancer-Binding Proteins, Gene Knockout Techniques, Hematopoiesis,
+  High-Throughput Nucleotide Sequencing, Mice, Mice, Inbred C57BL, Myeloid
+  Progenitor Cells, Sequence Analysis, {RNA}, Single-Cell Analysis,
+  Transcription Factors, Transcriptome}
+    \strng{namehash}{PF+1}
+    \strng{fullhash}{PFAYGAJDAKEKSHWDLADGMWADECNLFKBHSSAMAGFJSTAPBTTAAI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    Within the bone marrow, stem cells differentiate and give rise to diverse
+  blood cell types and functions. Currently, hematopoietic progenitors are
+  defined using surface markers combined with functional assays that are not
+  directly linked with in vivo differentiation potential or gene regulatory
+  mechanisms. Here, we comprehensively map myeloid progenitor subpopulations by
+  transcriptional sorting of single cells from the bone marrow. We describe
+  multiple progenitor subgroups, showing unexpected transcriptional priming
+  toward seven differentiation fates but no progenitors with a mixed state.
+  Transcriptional differentiation is correlated with combinations of known and
+  previously undefined transcription factors, suggesting that the process is
+  tightly regulated. Histone maps and knockout assays are consistent with early
+  transcriptional priming, while traditional transplantation experiments
+  suggest that in vivo priming may still allow for plasticity given strong
+  perturbations. These data establish a reference model and general framework
+  for studying hematopoiesis at single-cell resolution.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.cell.2015.11.013
+    \endverb
+    \field{issn}{1097-4172}
+    \field{number}{7}
+    \field{pages}{1663\bibrangedash 1677}
+    \field{title}{Transcriptional Heterogeneity and Lineage Commitment in
+  Myeloid Progenitors}
+    \field{volume}{163}
+    \field{journaltitle}{Cell}
+    \field{day}{17}
+    \field{month}{12}
+    \field{year}{2015}
+  \endentry
+
+  \entry{schlitzer_identification_2015}{article}{}
+    \name{author}{16}{}{%
+      {{hash=SA}{%
+         family={Schlitzer},
+         familyi={S\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SV}{%
+         family={Sivakamasundari},
+         familyi={S\bibinitperiod},
+         given={V},
+         giveni={V},
+      }}%
+      {{hash=CJ}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Jinmiao},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SHRB}{%
+         family={Sumatoh},
+         familyi={S\bibinitperiod},
+         given={Hermi Rizal\bibnamedelima Bin},
+         giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  B\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Schreuder},
+         familyi={S\bibinitperiod},
+         given={Jaring},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Lum},
+         familyi={L\bibinitperiod},
+         given={Josephine},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Malleret},
+         familyi={M\bibinitperiod},
+         given={Benoit},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=ZS}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Sanqian},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LA}{%
+         family={Larbi},
+         familyi={L\bibinitperiod},
+         given={Anis},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=ZF}{%
+         family={Zolezzi},
+         familyi={Z\bibinitperiod},
+         given={Francesca},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=RL}{%
+         family={Renia},
+         familyi={R\bibinitperiod},
+         given={Laurent},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=PM}{%
+         family={Poidinger},
+         familyi={P\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=NS}{%
+         family={Naik},
+         familyi={N\bibinitperiod},
+         given={Shalin},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=NEW}{%
+         family={Newell},
+         familyi={N\bibinitperiod},
+         given={Evan\bibnamedelima W},
+         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=RP}{%
+         family={Robson},
+         familyi={R\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=GF}{%
+         family={Ginhoux},
+         familyi={G\bibinitperiod},
+         given={Florent},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \keyw{ref8}
+    \strng{namehash}{SA+1}
+    \strng{fullhash}{SASVCJSHRBSJLJMBZSLAZFRLPMNSNEWRPGF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1038/ni.3200
+    \endverb
+    \field{issn}{1529-2908, 1529-2916}
+    \field{number}{7}
+    \field{pages}{718\bibrangedash 728}
+    \field{title}{Identification of {cDC}1- and {cDC}2-committed {DC}
+  progenitors reveals early lineage priming at the common {DC} progenitor stage
+  in the bone marrow}
+    \verb{url}
+    \verb http://www.nature.com/articles/ni.3200
+    \endverb
+    \field{volume}{16}
+    \field{langid}{english}
+    \field{journaltitle}{Nat Immunol}
+    \field{month}{07}
+    \field{year}{2015}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{shin_single-cell_2015}{article}{}
+    \name{author}{11}{}{%
+      {{hash=SJ}{%
+         family={Shin},
+         familyi={S\bibinitperiod},
+         given={Jaehoon},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={Berg},
+         familyi={B\bibinitperiod},
+         given={Daniel A.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=ZY}{%
+         family={Zhu},
+         familyi={Z\bibinitperiod},
+         given={Yunhua},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Shin},
+         familyi={S\bibinitperiod},
+         given={Joseph Y.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={Juan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bonaguidi},
+         familyi={B\bibinitperiod},
+         given={Michael A.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=EG}{%
+         family={Enikolopov},
+         familyi={E\bibinitperiod},
+         given={Grigori},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=ND}{%
+         family={Nauen},
+         familyi={N\bibinitperiod},
+         given={David W.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=CK}{%
+         family={Christian},
+         familyi={C\bibinitperiod},
+         given={Kimberly M.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=MGl}{%
+         family={Ming},
+         familyi={M\bibinitperiod},
+         given={Guo-li},
+         giveni={G\bibinithyphendelim l\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={Hongjun},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \keyw{神经发生}
+    \strng{namehash}{SJ+1}
+    \strng{fullhash}{SJBDZYSJSJBMEGNDCKMGlSH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1016/j.stem.2015.07.013
+    \endverb
+    \field{issn}{19345909}
+    \field{number}{3}
+    \field{pages}{360\bibrangedash 372}
+    \field{title}{Single-Cell {RNA}-Seq with Waterfall Reveals Molecular
+  Cascades underlying Adult Neurogenesis}
+    \verb{url}
+    \verb https://linkinghub.elsevier.com/retrieve/pii/S1934590915003124
+    \endverb
+    \field{volume}{17}
+    \field{langid}{english}
+    \field{journaltitle}{Cell Stem Cell}
+    \field{month}{09}
+    \field{year}{2015}
+    \field{urlday}{23}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{trapnell_defining_2015}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TC}{%
+         family={Trapnell},
+         familyi={T\bibinitperiod},
+         given={Cole},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \keyw{ref3}
+    \strng{namehash}{TC1}
+    \strng{fullhash}{TC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1101/gr.190595.115
+    \endverb
+    \field{issn}{1088-9051, 1549-5469}
+    \field{number}{10}
+    \field{pages}{1491\bibrangedash 1498}
+    \field{title}{Defining cell types and states with single-cell genomics}
+    \verb{url}
+    \verb http://genome.cshlp.org/lookup/doi/10.1101/gr.190595.115
+    \endverb
+    \field{volume}{25}
+    \field{langid}{english}
+    \verb{file}
+    \verb Full Text:/Users/guosiyuan/Zotero/storage/QZEDEZSC/Trapnell - 2015 -
+    \verb Defining cell types and states with single-cell ge.pdf:application/pd
+    \verb f
+    \endverb
+    \field{journaltitle}{Genome Res.}
+    \field{month}{10}
+    \field{year}{2015}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{cannoodt_computational_2016}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CR}{%
+         family={Cannoodt},
+         familyi={C\bibinitperiod},
+         given={Robrecht},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SW}{%
+         family={Saelens},
+         familyi={S\bibinitperiod},
+         given={Wouter},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=SY}{%
+         family={Saeys},
+         familyi={S\bibinitperiod},
+         given={Yvan},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \keyw{ref4}
+    \strng{namehash}{CRSWSY1}
+    \strng{fullhash}{CRSWSY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1002/eji.201646347
+    \endverb
+    \field{issn}{00142980}
+    \field{number}{11}
+    \field{pages}{2496\bibrangedash 2506}
+    \field{title}{Computational methods for trajectory inference from
+  single-cell transcriptomics}
+    \verb{url}
+    \verb http://doi.wiley.com/10.1002/eji.201646347
+    \endverb
+    \field{volume}{46}
+    \field{langid}{english}
+    \field{journaltitle}{Eur. J. Immunol.}
+    \field{month}{11}
+    \field{year}{2016}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{cannoodt_scorpius_2016}{report}{}
+    \name{author}{9}{}{%
+      {{hash=CR}{%
+         family={Cannoodt},
+         familyi={C\bibinitperiod},
+         given={Robrecht},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SW}{%
+         family={Saelens},
+         familyi={S\bibinitperiod},
+         given={Wouter},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Sichien},
+         familyi={S\bibinitperiod},
+         given={Dorine},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=TS}{%
+         family={Tavernier},
+         familyi={T\bibinitperiod},
+         given={Simon},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=JS}{%
+         family={Janssens},
+         familyi={J\bibinitperiod},
+         given={Sophie},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Guilliams},
+         familyi={G\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LBN}{%
+         family={Lambrecht},
+         familyi={L\bibinitperiod},
+         given={Bart\bibnamedelima N},
+         giveni={B\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=DPK}{%
+         family={De\bibnamedelima Preter},
+         familyi={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+         given={Katleen},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SY}{%
+         family={Saeys},
+         familyi={S\bibinitperiod},
+         given={Yvan},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \keyw{{SCORPIUS}}
+    \strng{namehash}{CR+1}
+    \strng{fullhash}{CRSWSDTSJSGMLBNDPKSY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    Recent advances in {RNA} sequencing enable the generation of genome-wide
+  expression data at the single-cell level, opening up new avenues for
+  transcriptomics and systems biology. A new application of single-cell
+  whole-transcriptomics is the unbiased ordering of cells according to their
+  progression along a dynamic process of interest. We introduce {SCORPIUS}, a
+  method which can effectively reconstruct an ordering of individual cells
+  without any prior information about the dynamic process. Comprehensive
+  evaluation using ten {scRNA}-seq datasets shows that {SCORPIUS} consistently
+  outperforms state-of-the-art techniques. We used {SCORPIUS} to generate novel
+  hypotheses regarding dendritic cell development, which were subsequently
+  validated in vivo. This work enables data-driven investigation and
+  characterization of dynamic processes and lays the foundation for objective
+  benchmarking of future trajectory inference methods.%
+    }
+    \verb{doi}
+    \verb 10.1101/079509
+    \endverb
+    \field{title}{{SCORPIUS} improves trajectory inference and identifies novel
+  modules in dendritic cell development}
+    \verb{url}
+    \verb http://biorxiv.org/lookup/doi/10.1101/079509
+    \endverb
+    \field{langid}{english}
+    \list{institution}{1}{%
+      {Bioinformatics}%
+    }
+    \field{type}{preprint}
+    \field{day}{06}
+    \field{month}{10}
+    \field{year}{2016}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{chen_mpath_2016}{article}{}
+    \name{author}{5}{}{%
+      {{hash=CJ}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Jinmiao},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Schlitzer},
+         familyi={S\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Chakarov},
+         familyi={C\bibinitperiod},
+         given={Svetoslav},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=GF}{%
+         family={Ginhoux},
+         familyi={G\bibinitperiod},
+         given={Florent},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=PM}{%
+         family={Poidinger},
+         familyi={P\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \keyw{神经发生, 树突细胞（{cDC}）祖细胞}
+    \strng{namehash}{CJ+1}
+    \strng{fullhash}{CJSACSGFPM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1038/ncomms11988
+    \endverb
+    \field{issn}{2041-1723}
+    \field{number}{1}
+    \field{pages}{11988}
+    \field{title}{Mpath maps multi-branching single-cell trajectories revealing
+  progenitor cell progression during development}
+    \verb{url}
+    \verb http://www.nature.com/articles/ncomms11988
+    \endverb
+    \field{volume}{7}
+    \field{langid}{english}
+    \field{journaltitle}{Nat Commun}
+    \field{month}{09}
+    \field{year}{2016}
+    \field{urlday}{23}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{grun_novo_2016}{article}{}
+    \name{author}{12}{}{%
+      {{hash=GD}{%
+         family={Grün},
+         familyi={G\bibinitperiod},
+         given={Dominic},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Muraro},
+         familyi={M\bibinitperiod},
+         given={Mauro J.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BJC}{%
+         family={Boisset},
+         familyi={B\bibinitperiod},
+         given={Jean-Charles},
+         giveni={J\bibinithyphendelim C\bibinitperiod},
+      }}%
+      {{hash=WK}{%
+         family={Wiebrands},
+         familyi={W\bibinitperiod},
+         given={Kay},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=LA}{%
+         family={Lyubimova},
+         familyi={L\bibinitperiod},
+         given={Anna},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DG}{%
+         family={Dharmadhikari},
+         familyi={D\bibinitperiod},
+         given={Gitanjali},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=vM}{%
+         family={van den Born},
+         familyi={v\bibinitperiod},
+         given={Maaike},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=vJ}{%
+         family={van Es},
+         familyi={v\bibinitperiod},
+         given={Johan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=JE}{%
+         family={Jansen},
+         familyi={J\bibinitperiod},
+         given={Erik},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=CH}{%
+         family={Clevers},
+         familyi={C\bibinitperiod},
+         given={Hans},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=dE}{%
+         family={de Koning},
+         familyi={d\bibinitperiod},
+         given={Eelco J.P.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=vA}{%
+         family={van Oudenaarden},
+         familyi={v\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{{RaceID} / {StemID}}
+    \strng{namehash}{GD+1}
+    \strng{fullhash}{GDMMBJCWKLADGvMvJJECHdEvA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1016/j.stem.2016.05.010
+    \endverb
+    \field{issn}{19345909}
+    \field{number}{2}
+    \field{pages}{266\bibrangedash 277}
+    \field{title}{De Novo Prediction of Stem Cell Identity using Single-Cell
+  Transcriptome Data}
+    \verb{url}
+    \verb https://linkinghub.elsevier.com/retrieve/pii/S1934590916300947
+    \endverb
+    \field{volume}{19}
+    \field{langid}{english}
+    \field{journaltitle}{Cell Stem Cell}
+    \field{month}{08}
+    \field{year}{2016}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{habib_div-seq:_2016}{article}{}
+    \name{author}{9}{}{%
+      {{hash=HN}{%
+         family={Habib},
+         familyi={H\bibinitperiod},
+         given={Naomi},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=LY}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Yinqing},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Heidenreich},
+         familyi={H\bibinitperiod},
+         given={Matthias},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SL}{%
+         family={Swiech},
+         familyi={S\bibinitperiod},
+         given={Lukasz},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=ADI}{%
+         family={Avraham-Davidi},
+         familyi={A\bibinithyphendelim D\bibinitperiod},
+         given={Inbal},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=TJJ}{%
+         family={Trombetta},
+         familyi={T\bibinitperiod},
+         given={John\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=HC}{%
+         family={Hession},
+         familyi={H\bibinitperiod},
+         given={Cynthia},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=ZF}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Feng},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Regev},
+         familyi={R\bibinitperiod},
+         given={Aviv},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{神经发生}
+    \strng{namehash}{HN+1}
+    \strng{fullhash}{HNLYHMSLADITJJHCZFRA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1126/science.aad7038
+    \endverb
+    \field{issn}{0036-8075, 1095-9203}
+    \field{number}{6302}
+    \field{pages}{925\bibrangedash 928}
+    \field{shorttitle}{Div-Seq}
+    \field{title}{Div-Seq: Single-nucleus {RNA}-Seq reveals dynamics of rare
+  adult newborn neurons}
+    \verb{url}
+    \verb http://www.sciencemag.org/lookup/doi/10.1126/science.aad7038
+    \endverb
+    \field{volume}{353}
+    \field{langid}{english}
+    \verb{file}
+    \verb Full Text:/Users/guosiyuan/Zotero/storage/ML9KZJEE/Habib et al. - 201
+    \verb 6 - Div-Seq Single-nucleus RNA-Seq reveals dynamics o.pdf:application
+    \verb /pdf
+    \endverb
+    \field{journaltitle}{Science}
+    \field{day}{26}
+    \field{month}{08}
+    \field{year}{2016}
+    \field{urlday}{23}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{haghverdi_diffusion_2016}{article}{}
+    \name{author}{5}{}{%
+      {{hash=HL}{%
+         family={Haghverdi},
+         familyi={H\bibinitperiod},
+         given={Laleh},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Büttner},
+         familyi={B\bibinitperiod},
+         given={Maren},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=WFA}{%
+         family={Wolf},
+         familyi={W\bibinitperiod},
+         given={F\bibnamedelima Alexander},
+         giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BF}{%
+         family={Buettner},
+         familyi={B\bibinitperiod},
+         given={Florian},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=TFJ}{%
+         family={Theis},
+         familyi={T\bibinitperiod},
+         given={Fabian\bibnamedelima J},
+         giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \keyw{{DPT}, 胚胎发育}
+    \strng{namehash}{HL+1}
+    \strng{fullhash}{HLBMWFABFTFJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1038/nmeth.3971
+    \endverb
+    \field{issn}{1548-7091, 1548-7105}
+    \field{number}{10}
+    \field{pages}{845\bibrangedash 848}
+    \field{title}{Diffusion pseudotime robustly reconstructs lineage branching}
+    \verb{url}
+    \verb http://www.nature.com/articles/nmeth.3971
+    \endverb
+    \field{volume}{13}
+    \field{langid}{english}
+    \field{journaltitle}{Nat Methods}
+    \field{month}{10}
+    \field{year}{2016}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{ji_tscan:_2016}{article}{}
+    \name{author}{2}{}{%
+      {{hash=JZ}{%
+         family={Ji},
+         familyi={J\bibinitperiod},
+         given={Zhicheng},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=JH}{%
+         family={Ji},
+         familyi={J\bibinitperiod},
+         given={Hongkai},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \keyw{{TSCAN}}
+    \strng{namehash}{JZJH1}
+    \strng{fullhash}{JZJH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1093/nar/gkw430
+    \endverb
+    \field{issn}{0305-1048, 1362-4962}
+    \field{number}{13}
+    \field{pages}{e117\bibrangedash e117}
+    \field{shorttitle}{{TSCAN}}
+    \field{title}{{TSCAN}: Pseudo-time reconstruction and evaluation in
+  single-cell {RNA}-seq analysis}
+    \verb{url}
+    \verb https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw430
+    \endverb
+    \field{volume}{44}
+    \field{langid}{english}
+    \field{journaltitle}{Nucleic Acids Res}
+    \field{day}{27}
+    \field{month}{07}
+    \field{year}{2016}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{nestorowa_single-cell_2016}{article}{}
+    \name{author}{9}{}{%
+      {{hash=NS}{%
+         family={Nestorowa},
+         familyi={N\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=HFK}{%
+         family={Hamey},
+         familyi={H\bibinitperiod},
+         given={F.\bibnamedelima K.},
+         giveni={F\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=PSB}{%
+         family={Pijuan\bibnamedelima Sala},
+         familyi={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=DE}{%
+         family={Diamanti},
+         familyi={D\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Shepherd},
+         familyi={S\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LE}{%
+         family={Laurenti},
+         familyi={L\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=WNK}{%
+         family={Wilson},
+         familyi={W\bibinitperiod},
+         given={N.\bibnamedelima K.},
+         giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=KDG}{%
+         family={Kent},
+         familyi={K\bibinitperiod},
+         given={D.\bibnamedelima G.},
+         giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=GB}{%
+         family={Gottgens},
+         familyi={G\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \keyw{早期造血细胞谱系}
+    \strng{namehash}{NS+1}
+    \strng{fullhash}{NSHFKPSBDESMLEWNKKDGGB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1182/blood-2016-05-716480
+    \endverb
+    \field{issn}{0006-4971, 1528-0020}
+    \field{number}{8}
+    \field{pages}{e20\bibrangedash e31}
+    \field{title}{A single-cell resolution map of mouse hematopoietic stem and
+  progenitor cell differentiation}
+    \verb{url}
+    \verb http://www.bloodjournal.org/cgi/doi/10.1182/blood-2016-05-716480
+    \endverb
+    \field{volume}{128}
+    \field{langid}{english}
+    \field{journaltitle}{Blood}
+    \field{day}{25}
+    \field{month}{08}
+    \field{year}{2016}
+    \field{urlday}{23}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{olsson_single-cell_2016}{article}{}
+    \name{author}{7}{}{%
+      {{hash=OA}{%
+         family={Olsson},
+         familyi={O\bibinitperiod},
+         given={Andre},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=VM}{%
+         family={Venkatasubramanian},
+         familyi={V\bibinitperiod},
+         given={Meenakshi},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CVK}{%
+         family={Chaudhri},
+         familyi={C\bibinitperiod},
+         given={Viren\bibnamedelima K.},
+         giveni={V\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=ABJ}{%
+         family={Aronow},
+         familyi={A\bibinitperiod},
+         given={Bruce\bibnamedelima J.},
+         giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=SN}{%
+         family={Salomonis},
+         familyi={S\bibinitperiod},
+         given={Nathan},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Singh},
+         familyi={S\bibinitperiod},
+         given={Harinder},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=GHL}{%
+         family={Grimes},
+         familyi={G\bibinitperiod},
+         given={H.\bibnamedelima Leighton},
+         giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \keyw{骨髓细胞}
+    \strng{namehash}{OA+1}
+    \strng{fullhash}{OAVMCVKABJSNSHGHL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1038/nature19348
+    \endverb
+    \field{issn}{0028-0836, 1476-4687}
+    \field{number}{7622}
+    \field{pages}{698\bibrangedash 702}
+    \field{title}{Single-cell analysis of mixed-lineage states leading to a
+  binary cell fate choice}
+    \verb{url}
+    \verb http://www.nature.com/articles/nature19348
+    \endverb
+    \field{volume}{537}
+    \field{langid}{english}
+    \field{journaltitle}{Nature}
+    \field{month}{09}
+    \field{year}{2016}
+    \field{urlday}{23}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{tirosh_dissecting_2016}{article}{}
+    \name{author}{37}{}{%
+      {{hash=TI}{%
+         family={Tirosh},
+         familyi={T\bibinitperiod},
+         given={Itay},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=IB}{%
+         family={Izar},
+         familyi={I\bibinitperiod},
+         given={Benjamin},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=PSM}{%
+         family={Prakadan},
+         familyi={P\bibinitperiod},
+         given={Sanjay\bibnamedelima M.},
+         giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=WMH}{%
+         family={Wadsworth},
+         familyi={W\bibinitperiod},
+         given={Marc\bibnamedelima H.},
+         giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=TD}{%
+         family={Treacy},
+         familyi={T\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=TJJ}{%
+         family={Trombetta},
+         familyi={T\bibinitperiod},
+         given={John\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Rotem},
+         familyi={R\bibinitperiod},
+         given={Asaf},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RC}{%
+         family={Rodman},
+         familyi={R\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Lian},
+         familyi={L\bibinitperiod},
+         given={Christine},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=MG}{%
+         family={Murphy},
+         familyi={M\bibinitperiod},
+         given={George},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=FSM}{%
+         family={Fallahi-Sichani},
+         familyi={F\bibinithyphendelim S\bibinitperiod},
+         given={Mohammad},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DRK}{%
+         family={Dutton-Regester},
+         familyi={D\bibinithyphendelim R\bibinitperiod},
+         given={Ken},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=LJR}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Jia-Ren},
+         giveni={J\bibinithyphendelim R\bibinitperiod},
+      }}%
+      {{hash=CO}{%
+         family={Cohen},
+         familyi={C\bibinitperiod},
+         given={Ofir},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Shah},
+         familyi={S\bibinitperiod},
+         given={Parin},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Lu},
+         familyi={L\bibinitperiod},
+         given={Diana},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=GAS}{%
+         family={Genshaft},
+         familyi={G\bibinitperiod},
+         given={Alex\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=HTK}{%
+         family={Hughes},
+         familyi={H\bibinitperiod},
+         given={Travis\bibnamedelima K.},
+         giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=ZCGK}{%
+         family={Ziegler},
+         familyi={Z\bibinitperiod},
+         given={Carly G.\bibnamedelima K.},
+         giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim
+  K\bibinitperiod},
+      }}%
+      {{hash=KSW}{%
+         family={Kazer},
+         familyi={K\bibinitperiod},
+         given={Samuel\bibnamedelima W.},
+         giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Gaillard},
+         familyi={G\bibinitperiod},
+         given={Aleth},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KKE}{%
+         family={Kolb},
+         familyi={K\bibinitperiod},
+         given={Kellie\bibnamedelima E.},
+         giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=VAC}{%
+         family={Villani},
+         familyi={V\bibinitperiod},
+         given={Alexandra-Chloé},
+         giveni={A\bibinithyphendelim C\bibinitperiod},
+      }}%
+      {{hash=JCM}{%
+         family={Johannessen},
+         familyi={J\bibinitperiod},
+         given={Cory\bibnamedelima M.},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=AAY}{%
+         family={Andreev},
+         familyi={A\bibinitperiod},
+         given={Aleksandr\bibnamedelima Y.},
+         giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+      {{hash=VAEM}{%
+         family={Van\bibnamedelima Allen},
+         familyi={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+         given={Eliezer\bibnamedelima M.},
+         giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bertagnolli},
+         familyi={B\bibinitperiod},
+         given={Monica},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SPK}{%
+         family={Sorger},
+         familyi={S\bibinitperiod},
+         given={Peter\bibnamedelima K.},
+         giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=SRJ}{%
+         family={Sullivan},
+         familyi={S\bibinitperiod},
+         given={Ryan\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=FKT}{%
+         family={Flaherty},
+         familyi={F\bibinitperiod},
+         given={Keith\bibnamedelima T.},
+         giveni={K\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=FDT}{%
+         family={Frederick},
+         familyi={F\bibinitperiod},
+         given={Dennie\bibnamedelima T.},
+         giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=JVJ}{%
+         family={Jané-Valbuena},
+         familyi={J\bibinithyphendelim V\bibinitperiod},
+         given={Judit},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=YCH}{%
+         family={Yoon},
+         familyi={Y\bibinitperiod},
+         given={Charles\bibnamedelima H.},
+         giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=RRO}{%
+         family={Rozenblatt-Rosen},
+         familyi={R\bibinithyphendelim R\bibinitperiod},
+         given={Orit},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=SAK}{%
+         family={Shalek},
+         familyi={S\bibinitperiod},
+         given={Alex\bibnamedelima K.},
+         giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Regev},
+         familyi={R\bibinitperiod},
+         given={Aviv},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GLA}{%
+         family={Garraway},
+         familyi={G\bibinitperiod},
+         given={Levi\bibnamedelima A.},
+         giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \keyw{Humans, Sequence Analysis, {RNA}, Single-Cell Analysis,
+  Transcriptome, Base Sequence, Cell Communication, Cell Cycle, Drug
+  Resistance, Neoplasm, Endothelial Cells, Genomics, Immunotherapy, Lymphocyte
+  Activation, Melanoma, Microphthalmia-Associated Transcription Factor,
+  Neoplasm Metastasis, {RNA}, Skin Neoplasms, Stromal Cells, T-Lymphocytes,
+  Tumor Microenvironment}
+    \strng{namehash}{TI+1}
+  \strng{fullhash}{TIIBPSMWMHTDTJJRARCLCMGFSMDRKLJRCOSPLDGASHTKZCGKKSWGAKKEVACJCMAAYVAEMBMSPKSRJFKTFDTJVJYCHRROSAKRAGLA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    To explore the distinct genotypic and phenotypic states of melanoma tumors,
+  we applied single-cell {RNA} sequencing ({RNA}-seq) to 4645 single cells
+  isolated from 19 patients, profiling malignant, immune, stromal, and
+  endothelial cells. Malignant cells within the same tumor displayed
+  transcriptional heterogeneity associated with the cell cycle, spatial
+  context, and a drug-resistance program. In particular, all tumors harbored
+  malignant cells from two distinct transcriptional cell states, such that
+  tumors characterized by high levels of the {MITF} transcription factor also
+  contained cells with low {MITF} and elevated levels of the {AXL} kinase.
+  Single-cell analyses suggested distinct tumor microenvironmental patterns,
+  including cell-to-cell interactions. Analysis of tumor-infiltrating T cells
+  revealed exhaustion programs, their connection to T cell activation and
+  clonal expansion, and their variability across patients. Overall, we begin to
+  unravel the cellular ecosystem of tumors and how single-cell genomics offers
+  insights with implications for both targeted and immune therapies.%
+    }
+    \verb{doi}
+    \verb 10.1126/science.aad0501
+    \endverb
+    \field{issn}{1095-9203}
+    \field{number}{6282}
+    \field{pages}{189\bibrangedash 196}
+    \field{title}{Dissecting the multicellular ecosystem of metastatic melanoma
+  by single-cell {RNA}-seq}
+    \field{volume}{352}
+    \verb{file}
+    \verb Full Text:/Users/guosiyuan/Zotero/storage/Q5VHEPA9/Tirosh et al. - 20
+    \verb 16 - Dissecting the multicellular ecosystem of metastat.pdf:applicati
+    \verb on/pdf
+    \endverb
+    \field{journaltitle}{Science}
+    \field{day}{08}
+    \field{month}{04}
+    \field{year}{2016}
+  \endentry
+
+  \entry{tirosh_single-cell_2016}{article}{}
+    \name{author}{38}{}{%
+      {{hash=TI}{%
+         family={Tirosh},
+         familyi={T\bibinitperiod},
+         given={Itay},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=VAS}{%
+         family={Venteicher},
+         familyi={V\bibinitperiod},
+         given={Andrew\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=HC}{%
+         family={Hebert},
+         familyi={H\bibinitperiod},
+         given={Christine},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=ELE}{%
+         family={Escalante},
+         familyi={E\bibinitperiod},
+         given={Leah\bibnamedelima E.},
+         giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=PAP}{%
+         family={Patel},
+         familyi={P\bibinitperiod},
+         given={Anoop\bibnamedelima P.},
+         giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=YK}{%
+         family={Yizhak},
+         familyi={Y\bibinitperiod},
+         given={Keren},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=FJM}{%
+         family={Fisher},
+         familyi={F\bibinitperiod},
+         given={Jonathan\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=RC}{%
+         family={Rodman},
+         familyi={R\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Mount},
+         familyi={M\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=FMG}{%
+         family={Filbin},
+         familyi={F\bibinitperiod},
+         given={Mariella\bibnamedelima G.},
+         giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=NC}{%
+         family={Neftel},
+         familyi={N\bibinitperiod},
+         given={Cyril},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=DN}{%
+         family={Desai},
+         familyi={D\bibinitperiod},
+         given={Niyati},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=NJ}{%
+         family={Nyman},
+         familyi={N\bibinitperiod},
+         given={Jackson},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=IB}{%
+         family={Izar},
+         familyi={I\bibinitperiod},
+         given={Benjamin},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=LCC}{%
+         family={Luo},
+         familyi={L\bibinitperiod},
+         given={Christina\bibnamedelima C.},
+         giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=FJM}{%
+         family={Francis},
+         familyi={F\bibinitperiod},
+         given={Joshua\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=PAA}{%
+         family={Patel},
+         familyi={P\bibinitperiod},
+         given={Aanand\bibnamedelima A.},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=OML}{%
+         family={Onozato},
+         familyi={O\bibinitperiod},
+         given={Maristela\bibnamedelima L.},
+         giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=RN}{%
+         family={Riggi},
+         familyi={R\bibinitperiod},
+         given={Nicolo},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=LKJ}{%
+         family={Livak},
+         familyi={L\bibinitperiod},
+         given={Kenneth\bibnamedelima J.},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=GD}{%
+         family={Gennert},
+         familyi={G\bibinitperiod},
+         given={Dave},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Satija},
+         familyi={S\bibinitperiod},
+         given={Rahul},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=NBV}{%
+         family={Nahed},
+         familyi={N\bibinitperiod},
+         given={Brian\bibnamedelima V.},
+         giveni={B\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=CWT}{%
+         family={Curry},
+         familyi={C\bibinitperiod},
+         given={William\bibnamedelima T.},
+         giveni={W\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=MRL}{%
+         family={Martuza},
+         familyi={M\bibinitperiod},
+         given={Robert\bibnamedelima L.},
+         giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={Mylvaganam},
+         familyi={M\bibinitperiod},
+         given={Ravindra},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=IAJ}{%
+         family={Iafrate},
+         familyi={I\bibinitperiod},
+         given={A.\bibnamedelima John},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=FMP}{%
+         family={Frosch},
+         familyi={F\bibinitperiod},
+         given={Matthew\bibnamedelima P.},
+         giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=GTR}{%
+         family={Golub},
+         familyi={G\bibinitperiod},
+         given={Todd\bibnamedelima R.},
+         giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=RMN}{%
+         family={Rivera},
+         familyi={R\bibinitperiod},
+         given={Miguel\bibnamedelima N.},
+         giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=GG}{%
+         family={Getz},
+         familyi={G\bibinitperiod},
+         given={Gad},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=RRO}{%
+         family={Rozenblatt-Rosen},
+         familyi={R\bibinithyphendelim R\bibinitperiod},
+         given={Orit},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=CDP}{%
+         family={Cahill},
+         familyi={C\bibinitperiod},
+         given={Daniel\bibnamedelima P.},
+         giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Monje},
+         familyi={M\bibinitperiod},
+         given={Michelle},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BBE}{%
+         family={Bernstein},
+         familyi={B\bibinitperiod},
+         given={Bradley\bibnamedelima E.},
+         giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=LDN}{%
+         family={Louis},
+         familyi={L\bibinitperiod},
+         given={David\bibnamedelima N.},
+         giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Regev},
+         familyi={R\bibinitperiod},
+         given={Aviv},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SML}{%
+         family={Suvà},
+         familyi={S\bibinitperiod},
+         given={Mario\bibnamedelima L.},
+         giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \keyw{Humans, Sequence Analysis, {RNA}, Single-Cell Analysis, Cell
+  Differentiation, Neoplastic Stem Cells, Cell Proliferation, {DNA} Copy Number
+  Variations, Isocitrate Dehydrogenase, Neural Stem Cells, Neuroglia,
+  Oligodendroglioma, Phylogeny, Point Mutation}
+    \strng{namehash}{TI+1}
+  \strng{fullhash}{TIVASHCELEPAPYKFJMRCMCFMGNCDNNJIBLCCFJMPAAOMLRNLKJGDSRNBVCWTMRLMRIAJFMPGTRRMNGGRROCDPMMBBELDNRASML1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    Although human tumours are shaped by the genetic evolution of cancer cells,
+  evidence also suggests that they display hierarchies related to developmental
+  pathways and epigenetic programs in which cancer stem cells ({CSCs}) can
+  drive tumour growth and give rise to differentiated progeny. Yet, unbiased
+  evidence for {CSCs} in solid human malignancies remains elusive. Here we
+  profile 4,347 single cells from six {IDH}1 or {IDH}2 mutant human
+  oligodendrogliomas by {RNA} sequencing ({RNA}-seq) and reconstruct their
+  developmental programs from genome-wide expression signatures. We infer that
+  most cancer cells are differentiated along two specialized glial programs,
+  whereas a rare subpopulation of cells is undifferentiated and associated with
+  a neural stem cell expression program. Cells with expression signatures for
+  proliferation are highly enriched in this rare subpopulation, consistent with
+  a model in which {CSCs} are primarily responsible for fuelling the growth of
+  oligodendroglioma in humans. Analysis of copy number variation ({CNV}) shows
+  that distinct {CNV} sub-clones within tumours display similar cellular
+  hierarchies, suggesting that the architecture of oligodendroglioma is
+  primarily dictated by developmental programs. Subclonal point mutation
+  analysis supports a similar model, although a full phylogenetic tree would be
+  required to definitively determine the effect of genetic evolution on the
+  inferred hierarchies. Our single-cell analyses provide insight into the
+  cellular architecture of oligodendrogliomas at single-cell resolution and
+  support the cancer stem cell model, with substantial implications for disease
+  management.%
+    }
+    \verb{doi}
+    \verb 10.1038/nature20123
+    \endverb
+    \field{issn}{1476-4687}
+    \field{number}{7628}
+    \field{pages}{309\bibrangedash 313}
+    \field{title}{Single-cell {RNA}-seq supports a developmental hierarchy in
+  human oligodendroglioma}
+    \field{volume}{539}
+    \field{journaltitle}{Nature}
+    \field{year}{2016}
+  \endentry
+
+  \entry{aibar_scenic:_2017}{article}{}
+    \name{author}{14}{}{%
+      {{hash=AS}{%
+         family={Aibar},
+         familyi={A\bibinitperiod},
+         given={Sara},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=GBCB}{%
+         family={González-Blas},
+         familyi={G\bibinithyphendelim B\bibinitperiod},
+         given={Carmen\bibnamedelima Bravo},
+         giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=MT}{%
+         family={Moerman},
+         familyi={M\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=HTVA}{%
+         family={Huynh-Thu},
+         familyi={H\bibinithyphendelim T\bibinitperiod},
+         given={Vân\bibnamedelima Anh},
+         giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=IH}{%
+         family={Imrichova},
+         familyi={I\bibinitperiod},
+         given={Hana},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=HG}{%
+         family={Hulselmans},
+         familyi={H\bibinitperiod},
+         given={Gert},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=RF}{%
+         family={Rambow},
+         familyi={R\bibinitperiod},
+         given={Florian},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=MJC}{%
+         family={Marine},
+         familyi={M\bibinitperiod},
+         given={Jean-Christophe},
+         giveni={J\bibinithyphendelim C\bibinitperiod},
+      }}%
+      {{hash=GP}{%
+         family={Geurts},
+         familyi={G\bibinitperiod},
+         given={Pierre},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=AJ}{%
+         family={Aerts},
+         familyi={A\bibinitperiod},
+         given={Jan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=vdOJ}{%
+         prefix={van\bibnamedelima den},
+         prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+         family={Oord},
+         familyi={O\bibinitperiod},
+         given={Joost},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=AZK}{%
+         family={Atak},
+         familyi={A\bibinitperiod},
+         given={Zeynep\bibnamedelima Kalender},
+         giveni={Z\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wouters},
+         familyi={W\bibinitperiod},
+         given={Jasper},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=AS}{%
+         family={Aerts},
+         familyi={A\bibinitperiod},
+         given={Stein},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \keyw{ref11}
+    \strng{namehash}{AS+1}
+    \strng{fullhash}{ASGBCBMTHTVAIHHGRFMJCGPAJOJvdAZKWJAS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1038/nmeth.4463
+    \endverb
+    \field{issn}{1548-7091, 1548-7105}
+    \field{number}{11}
+    \field{pages}{1083\bibrangedash 1086}
+    \field{shorttitle}{{SCENIC}}
+    \field{title}{{SCENIC}: single-cell regulatory network inference and
+  clustering}
+    \verb{url}
+    \verb http://www.nature.com/articles/nmeth.4463
+    \endverb
+    \field{volume}{14}
+    \field{langid}{english}
+    \field{journaltitle}{Nat Methods}
+    \field{month}{11}
+    \field{year}{2017}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{campbell_probabilistic_2017}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CKR}{%
+         family={Campbell},
+         familyi={C\bibinitperiod},
+         given={Kieran\bibnamedelima R},
+         giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=YC}{%
+         family={Yau},
+         familyi={Y\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \keyw{{MFA}}
+    \strng{namehash}{CKRYC1}
+    \strng{fullhash}{CKRYC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.12688/wellcomeopenres.11087.1
+    \endverb
+    \field{issn}{2398-502X}
+    \field{pages}{19}
+    \field{title}{Probabilistic modeling of bifurcations in single-cell gene
+  expression data using a Bayesian mixture of factor analyzers}
+    \verb{url}
+    \verb https://wellcomeopenresearch.org/articles/2-19/v1
+    \endverb
+    \field{volume}{2}
+    \field{langid}{english}
+    \field{journaltitle}{Wellcome Open Res}
+    \field{day}{15}
+    \field{month}{03}
+    \field{year}{2017}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{kiselev_sc3:_2017}{article}{}
+    \name{author}{11}{}{%
+      {{hash=KVY}{%
+         family={Kiselev},
+         familyi={K\bibinitperiod},
+         given={Vladimir\bibnamedelima Yu},
+         giveni={V\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+      {{hash=KK}{%
+         family={Kirschner},
+         familyi={K\bibinitperiod},
+         given={Kristina},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SMT}{%
+         family={Schaub},
+         familyi={S\bibinitperiod},
+         given={Michael\bibnamedelima T.},
+         giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=AT}{%
+         family={Andrews},
+         familyi={A\bibinitperiod},
+         given={Tallulah},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=YA}{%
+         family={Yiu},
+         familyi={Y\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CT}{%
+         family={Chandra},
+         familyi={C\bibinitperiod},
+         given={Tamir},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=NKN}{%
+         family={Natarajan},
+         familyi={N\bibinitperiod},
+         given={Kedar\bibnamedelima N.},
+         giveni={K\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=RW}{%
+         family={Reik},
+         familyi={R\bibinitperiod},
+         given={Wolf},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Barahona},
+         familyi={B\bibinitperiod},
+         given={Mauricio},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=GAR}{%
+         family={Green},
+         familyi={G\bibinitperiod},
+         given={Anthony\bibnamedelima R.},
+         giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Hemberg},
+         familyi={H\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \keyw{Humans, High-Throughput Nucleotide Sequencing, Sequence Analysis,
+  {RNA}, Single-Cell Analysis, Cluster Analysis, Datasets as Topic, Gene
+  Expression Profiling, Hematopoietic Stem Cells, Support Vector Machine}
+    \strng{namehash}{KVY+1}
+    \strng{fullhash}{KVYKKSMTATYACTNKNRWBMGARHM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    Single-cell {RNA}-seq enables the quantitative characterization of cell
+  types based on global transcriptome profiles. We present single-cell
+  consensus clustering ({SC}3), a user-friendly tool for unsupervised
+  clustering, which achieves high accuracy and robustness by combining multiple
+  clustering solutions through a consensus approach
+  (http://bioconductor.org/packages/{SC}3). We demonstrate that {SC}3 is
+  capable of identifying subclones from the transcriptomes of neoplastic cells
+  collected from patients.%
+    }
+    \verb{doi}
+    \verb 10.1038/nmeth.4236
+    \endverb
+    \field{issn}{1548-7105}
+    \field{number}{5}
+    \field{pages}{483\bibrangedash 486}
+    \field{shorttitle}{{SC}3}
+    \field{title}{{SC}3: consensus clustering of single-cell {RNA}-seq data}
+    \field{volume}{14}
+    \field{journaltitle}{Nat. Methods}
+    \field{month}{05}
+    \field{year}{2017}
+  \endentry
+
+  \entry{liu_reconstructing_2017}{article}{}
+    \name{author}{9}{}{%
+      {{hash=LZ}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Zehua},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=LH}{%
+         family={Lou},
+         familyi={L\bibinitperiod},
+         given={Huazhe},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=XK}{%
+         family={Xie},
+         familyi={X\bibinitperiod},
+         given={Kaikun},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=WH}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Hao},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=CN}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Ning},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=AOM}{%
+         family={Aparicio},
+         familyi={A\bibinitperiod},
+         given={Oscar\bibnamedelima M.},
+         giveni={O\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=ZMQ}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Michael\bibnamedelima Q.},
+         giveni={M\bibinitperiod\bibinitdelim Q\bibinitperiod},
+      }}%
+      {{hash=JR}{%
+         family={Jiang},
+         familyi={J\bibinitperiod},
+         given={Rui},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=CT}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Ting},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \keyw{ref6}
+    \strng{namehash}{LZ+1}
+    \strng{fullhash}{LZLHXKWHCNAOMZMQJRCT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1038/s41467-017-00039-z
+    \endverb
+    \field{issn}{2041-1723}
+    \field{number}{1}
+    \field{pages}{22}
+    \field{title}{Reconstructing cell cycle pseudo time-series via single-cell
+  transcriptome data}
+    \verb{url}
+    \verb http://www.nature.com/articles/s41467-017-00039-z
+    \endverb
+    \field{volume}{8}
+    \field{langid}{english}
+    \verb{file}
+    \verb Full Text:/Users/guosiyuan/Zotero/storage/6CTUNXH2/Liu et al. - 2017
+    \verb - Reconstructing cell cycle pseudo time-series via s.pdf:application/
+    \verb pdf
+    \endverb
+    \field{journaltitle}{Nat Commun}
+    \field{month}{12}
+    \field{year}{2017}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{nowogrodzki_how_2017}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NA}{%
+         family={Nowogrodzki},
+         familyi={N\bibinitperiod},
+         given={Anna},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NA1}
+    \strng{fullhash}{NA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1038/547024a
+    \endverb
+    \field{issn}{0028-0836, 1476-4687}
+    \field{number}{7661}
+    \field{pages}{24\bibrangedash 26}
+    \field{title}{How to build a human cell atlas}
+    \verb{url}
+    \verb http://www.nature.com/articles/547024a
+    \endverb
+    \field{volume}{547}
+    \field{langid}{english}
+    \field{journaltitle}{Nature}
+    \field{month}{07}
+    \field{year}{2017}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{perkel_single-cell_2017}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PJM}{%
+         family={Perkel},
+         familyi={P\bibinitperiod},
+         given={Jeffrey\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PJM1}
+    \strng{fullhash}{PJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1038/547125a
+    \endverb
+    \field{issn}{0028-0836, 1476-4687}
+    \field{number}{7661}
+    \field{pages}{125\bibrangedash 126}
+    \field{title}{Single-cell sequencing made simple}
+    \verb{url}
+    \verb http://www.nature.com/articles/547125a
+    \endverb
+    \field{volume}{547}
+    \field{langid}{english}
+    \field{journaltitle}{Nature}
+    \field{month}{07}
+    \field{year}{2017}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{qiu_reversed_2017}{article}{}
+    \name{author}{7}{}{%
+      {{hash=QX}{%
+         family={Qiu},
+         familyi={Q\bibinitperiod},
+         given={Xiaojie},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=MQ}{%
+         family={Mao},
+         familyi={M\bibinitperiod},
+         given={Qi},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=TY}{%
+         family={Tang},
+         familyi={T\bibinitperiod},
+         given={Ying},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=WL}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Li},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=CR}{%
+         family={Chawla},
+         familyi={C\bibinitperiod},
+         given={Raghav},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=PHA}{%
+         family={Pliner},
+         familyi={P\bibinitperiod},
+         given={Hannah\bibnamedelima A},
+         giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=TC}{%
+         family={Trapnell},
+         familyi={T\bibinitperiod},
+         given={Cole},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \keyw{Monocle2, Monocle {DDRTree}}
+    \strng{namehash}{QX+1}
+    \strng{fullhash}{QXMQTYWLCRPHATC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1038/nmeth.4402
+    \endverb
+    \field{issn}{1548-7091, 1548-7105}
+    \field{number}{10}
+    \field{pages}{979\bibrangedash 982}
+    \field{title}{Reversed graph embedding resolves complex single-cell
+  trajectories}
+    \verb{url}
+    \verb http://www.nature.com/articles/nmeth.4402
+    \endverb
+    \field{volume}{14}
+    \field{langid}{english}
+    \field{journaltitle}{Nat Methods}
+    \field{month}{10}
+    \field{year}{2017}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{regev_human_2017}{article}{}
+    \name{author}{62}{}{%
+      {{hash=RA}{%
+         family={Regev},
+         familyi={R\bibinitperiod},
+         given={Aviv},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=TSA}{%
+         family={Teichmann},
+         familyi={T\bibinitperiod},
+         given={Sarah\bibnamedelima A},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=LES}{%
+         family={Lander},
+         familyi={L\bibinitperiod},
+         given={Eric\bibnamedelima S},
+         giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=AI}{%
+         family={Amit},
+         familyi={A\bibinitperiod},
+         given={Ido},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Benoist},
+         familyi={B\bibinitperiod},
+         given={Christophe},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=BE}{%
+         family={Birney},
+         familyi={B\bibinitperiod},
+         given={Ewan},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=BB}{%
+         family={Bodenmiller},
+         familyi={B\bibinitperiod},
+         given={Bernd},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=CP}{%
+         family={Campbell},
+         familyi={C\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=CP}{%
+         family={Carninci},
+         familyi={C\bibinitperiod},
+         given={Piero},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Clatworthy},
+         familyi={C\bibinitperiod},
+         given={Menna},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CH}{%
+         family={Clevers},
+         familyi={C\bibinitperiod},
+         given={Hans},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=DB}{%
+         family={Deplancke},
+         familyi={D\bibinitperiod},
+         given={Bart},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=DI}{%
+         family={Dunham},
+         familyi={D\bibinitperiod},
+         given={Ian},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=EJ}{%
+         family={Eberwine},
+         familyi={E\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ER}{%
+         family={Eils},
+         familyi={E\bibinitperiod},
+         given={Roland},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=EW}{%
+         family={Enard},
+         familyi={E\bibinitperiod},
+         given={Wolfgang},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=FA}{%
+         family={Farmer},
+         familyi={F\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=FL}{%
+         family={Fugger},
+         familyi={F\bibinitperiod},
+         given={Lars},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=GB}{%
+         family={Göttgens},
+         familyi={G\bibinitperiod},
+         given={Berthold},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=HN}{%
+         family={Hacohen},
+         familyi={H\bibinitperiod},
+         given={Nir},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Haniffa},
+         familyi={H\bibinitperiod},
+         given={Muzlifah},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Hemberg},
+         familyi={H\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Seung},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KP}{%
+         family={Klenerman},
+         familyi={K\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Kriegstein},
+         familyi={K\bibinitperiod},
+         given={Arnold},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LE}{%
+         family={Lein},
+         familyi={L\bibinitperiod},
+         given={Ed},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Linnarsson},
+         familyi={L\bibinitperiod},
+         given={Sten},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LE}{%
+         family={Lundberg},
+         familyi={L\bibinitperiod},
+         given={Emma},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Lundeberg},
+         familyi={L\bibinitperiod},
+         given={Joakim},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MP}{%
+         family={Majumder},
+         familyi={M\bibinitperiod},
+         given={Partha},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=MJC}{%
+         family={Marioni},
+         familyi={M\bibinitperiod},
+         given={John\bibnamedelima C},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Merad},
+         familyi={M\bibinitperiod},
+         given={Miriam},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Mhlanga},
+         familyi={M\bibinitperiod},
+         given={Musa},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={Nawijn},
+         familyi={N\bibinitperiod},
+         given={Martijn},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={Netea},
+         familyi={N\bibinitperiod},
+         given={Mihai},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=NG}{%
+         family={Nolan},
+         familyi={N\bibinitperiod},
+         given={Garry},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=PD}{%
+         family={Pe'er},
+         familyi={P\bibinitperiod},
+         given={Dana},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Phillipakis},
+         familyi={P\bibinitperiod},
+         given={Anthony},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PCP}{%
+         family={Ponting},
+         familyi={P\bibinitperiod},
+         given={Chris\bibnamedelima P},
+         giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=QS}{%
+         family={Quake},
+         familyi={Q\bibinitperiod},
+         given={Stephen},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=RW}{%
+         family={Reik},
+         familyi={R\bibinitperiod},
+         given={Wolf},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=RRO}{%
+         family={Rozenblatt-Rosen},
+         familyi={R\bibinithyphendelim R\bibinitperiod},
+         given={Orit},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Sanes},
+         familyi={S\bibinitperiod},
+         given={Joshua},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Satija},
+         familyi={S\bibinitperiod},
+         given={Rahul},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=STN}{%
+         family={Schumacher},
+         familyi={S\bibinitperiod},
+         given={Ton\bibnamedelima N},
+         giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Shalek},
+         familyi={S\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Shapiro},
+         familyi={S\bibinitperiod},
+         given={Ehud},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Sharma},
+         familyi={S\bibinitperiod},
+         given={Padmanee},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SJW}{%
+         family={Shin},
+         familyi={S\bibinitperiod},
+         given={Jay\bibnamedelima W},
+         giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=SO}{%
+         family={Stegle},
+         familyi={S\bibinitperiod},
+         given={Oliver},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Stratton},
+         familyi={S\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SMJT}{%
+         family={Stubbington},
+         familyi={S\bibinitperiod},
+         given={Michael J\bibnamedelima T},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  T\bibinitperiod},
+      }}%
+      {{hash=TFJ}{%
+         family={Theis},
+         familyi={T\bibinitperiod},
+         given={Fabian\bibnamedelima J},
+         giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=UM}{%
+         family={Uhlen},
+         familyi={U\bibinitperiod},
+         given={Matthias},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=vOA}{%
+         prefix={van},
+         prefixi={v\bibinitperiod},
+         family={Oudenaarden},
+         familyi={O\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=WA}{%
+         family={Wagner},
+         familyi={W\bibinitperiod},
+         given={Allon},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=WF}{%
+         family={Watt},
+         familyi={W\bibinitperiod},
+         given={Fiona},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Weissman},
+         familyi={W\bibinitperiod},
+         given={Jonathan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WB}{%
+         family={Wold},
+         familyi={W\bibinitperiod},
+         given={Barbara},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=XR}{%
+         family={Xavier},
+         familyi={X\bibinitperiod},
+         given={Ramnik},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=YN}{%
+         family={Yosef},
+         familyi={Y\bibinitperiod},
+         given={Nir},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=H}{%
+         family={{Human Cell Atlas Meeting Participants}},
+         familyi={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RA+1}
+  \strng{fullhash}{RATSALESAIBCBEBBCPCPCMCHDBDIEJEREWFAFLGBHNHMHMKSKPKALELSLELJMPMJCMMMMNMNMNGPDPAPCPQSRWRROSJSRSTNSASESPSJWSOSMSMJTTFJUMOAvWAWFWJWBXRYNH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    The recent advent of methods for high-throughput single-cell molecular
+  profiling has catalyzed a growing sense in the scientific community that the
+  time is ripe to complete the 150-year-old effort to identify all cell types
+  in the human body. The Human Cell Atlas Project is an international
+  collaborative effort that aims to define all human cell types in terms of
+  distinctive molecular profiles (such as gene expression profiles) and to
+  connect this information with classical cellular descriptions (such as
+  location and morphology). An open comprehensive reference map of the
+  molecular state of cells in healthy human tissues would propel the systematic
+  study of physiological states, developmental trajectories, regulatory
+  circuitry and interactions of cells, and also provide a framework for
+  understanding cellular dysregulation in human disease. Here we describe the
+  idea, its potential utility, early proofs-of-concept, and some design
+  considerations for the Human Cell Atlas, including a commitment to open data,
+  code, and community.%
+    }
+    \verb{doi}
+    \verb 10.7554/eLife.27041
+    \endverb
+    \field{issn}{2050-084X}
+    \field{pages}{e27041}
+    \field{title}{The Human Cell Atlas}
+    \verb{url}
+    \verb https://elifesciences.org/articles/27041
+    \endverb
+    \field{volume}{6}
+    \field{langid}{english}
+    \field{journaltitle}{{eLife}}
+    \field{day}{05}
+    \field{month}{12}
+    \field{year}{2017}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{see_mapping_2017}{article}{}
+    \name{author}{36}{}{%
+      {{hash=SP}{%
+         family={See},
+         familyi={S\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=DCA}{%
+         family={Dutertre},
+         familyi={D\bibinitperiod},
+         given={Charles-Antoine},
+         giveni={C\bibinithyphendelim A\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Jinmiao},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=GP}{%
+         family={Günther},
+         familyi={G\bibinitperiod},
+         given={Patrick},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=MN}{%
+         family={{McGovern}},
+         familyi={M\bibinitperiod},
+         given={Naomi},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=ISE}{%
+         family={Irac},
+         familyi={I\bibinitperiod},
+         given={Sergio\bibnamedelima Erdal},
+         giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Gunawan},
+         familyi={G\bibinitperiod},
+         given={Merry},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Beyer},
+         familyi={B\bibinitperiod},
+         given={Marc},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=HK}{%
+         family={Händler},
+         familyi={H\bibinitperiod},
+         given={Kristian},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=DK}{%
+         family={Duan},
+         familyi={D\bibinitperiod},
+         given={Kaibo},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SHRB}{%
+         family={Sumatoh},
+         familyi={S\bibinitperiod},
+         given={Hermi Rizal\bibnamedelima Bin},
+         giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  B\bibinitperiod},
+      }}%
+      {{hash=RN}{%
+         family={Ruffin},
+         familyi={R\bibinitperiod},
+         given={Nicolas},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=JM}{%
+         family={Jouve},
+         familyi={J\bibinitperiod},
+         given={Mabel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=GME}{%
+         family={Gea-Mallorquí},
+         familyi={G\bibinithyphendelim M\bibinitperiod},
+         given={Ester},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=HRCM}{%
+         family={Hennekam},
+         familyi={H\bibinitperiod},
+         given={Raoul C.\bibnamedelima M.},
+         giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim
+  M\bibinitperiod},
+      }}%
+      {{hash=LT}{%
+         family={Lim},
+         familyi={L\bibinitperiod},
+         given={Tony},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=YCC}{%
+         family={Yip},
+         familyi={Y\bibinitperiod},
+         given={Chan\bibnamedelima Chung},
+         giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Wen},
+         familyi={W\bibinitperiod},
+         given={Ming},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Malleret},
+         familyi={M\bibinitperiod},
+         given={Benoit},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=LI}{%
+         family={Low},
+         familyi={L\bibinitperiod},
+         given={Ivy},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=SNB}{%
+         family={Shadan},
+         familyi={S\bibinitperiod},
+         given={Nurhidaya\bibnamedelima Binte},
+         giveni={N\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=FCFS}{%
+         family={Fen},
+         familyi={F\bibinitperiod},
+         given={Charlene Foong\bibnamedelima Shu},
+         giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+      }}%
+      {{hash=TA}{%
+         family={Tay},
+         familyi={T\bibinitperiod},
+         given={Alicia},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Lum},
+         familyi={L\bibinitperiod},
+         given={Josephine},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ZF}{%
+         family={Zolezzi},
+         familyi={Z\bibinitperiod},
+         given={Francesca},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=LA}{%
+         family={Larbi},
+         familyi={L\bibinitperiod},
+         given={Anis},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PM}{%
+         family={Poidinger},
+         familyi={P\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CJKY}{%
+         family={Chan},
+         familyi={C\bibinitperiod},
+         given={Jerry K.\bibnamedelima Y.},
+         giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
+  Y\bibinitperiod},
+      }}%
+      {{hash=CQ}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Qingfeng},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=RL}{%
+         family={Rénia},
+         familyi={R\bibinitperiod},
+         given={Laurent},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Haniffa},
+         familyi={H\bibinitperiod},
+         given={Muzlifah},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BP}{%
+         family={Benaroch},
+         familyi={B\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Schlitzer},
+         familyi={S\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SJL}{%
+         family={Schultze},
+         familyi={S\bibinitperiod},
+         given={Joachim\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=NEW}{%
+         family={Newell},
+         familyi={N\bibinitperiod},
+         given={Evan\bibnamedelima W.},
+         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=GF}{%
+         family={Ginhoux},
+         familyi={G\bibinitperiod},
+         given={Florent},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \keyw{ref10}
+    \strng{namehash}{SP+1}
+  \strng{fullhash}{SPDCACJGPMNISEGMBMHKDKSHRBRNJMGMEHRCMLTYCCWMMBLISNBFCFSTALJZFLAPMCJKYCQRLHMBPSASJLNEWGF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1126/science.aag3009
+    \endverb
+    \field{issn}{0036-8075, 1095-9203}
+    \field{number}{6342}
+    \field{pages}{eaag3009}
+    \field{title}{Mapping the human {DC} lineage through the integration of
+  high-dimensional techniques}
+    \verb{url}
+    \verb http://www.sciencemag.org/lookup/doi/10.1126/science.aag3009
+    \endverb
+    \field{volume}{356}
+    \field{langid}{english}
+    \field{journaltitle}{Science}
+    \field{day}{09}
+    \field{month}{06}
+    \field{year}{2017}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{noauthor_single-cell_2017}{article}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1038/547019a
+    \endverb
+    \field{issn}{0028-0836, 1476-4687}
+    \field{number}{7661}
+    \field{pages}{19\bibrangedash 19}
+    \field{title}{Single-cell biology}
+    \verb{url}
+    \verb http://www.nature.com/articles/547019a
+    \endverb
+    \field{volume}{547}
+    \field{langid}{english}
+    \field{journaltitle}{Nature}
+    \field{month}{07}
+    \field{year}{2017}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{tanay_scaling_2017}{article}{}
+    \name{author}{2}{}{%
+      {{hash=TA}{%
+         family={Tanay},
+         familyi={T\bibinitperiod},
+         given={Amos},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Regev},
+         familyi={R\bibinitperiod},
+         given={Aviv},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{ref1}
+    \strng{namehash}{TARA1}
+    \strng{fullhash}{TARA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1038/nature21350
+    \endverb
+    \field{issn}{0028-0836, 1476-4687}
+    \field{number}{7637}
+    \field{pages}{331\bibrangedash 338}
+    \field{title}{Scaling single-cell genomics from phenomenology to mechanism}
+    \verb{url}
+    \verb http://www.nature.com/articles/nature21350
+    \endverb
+    \field{volume}{541}
+    \field{langid}{english}
+    \field{journaltitle}{Nature}
+    \field{month}{01}
+    \field{year}{2017}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{velten_human_2017}{article}{}
+    \name{author}{17}{}{%
+      {{hash=VL}{%
+         family={Velten},
+         familyi={V\bibinitperiod},
+         given={Lars},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=HSF}{%
+         family={Haas},
+         familyi={H\bibinitperiod},
+         given={Simon\bibnamedelima F.},
+         giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=RS}{%
+         family={Raffel},
+         familyi={R\bibinitperiod},
+         given={Simon},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Blaszkiewicz},
+         familyi={B\bibinitperiod},
+         given={Sandra},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=IS}{%
+         family={Islam},
+         familyi={I\bibinitperiod},
+         given={Saiful},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=HBP}{%
+         family={Hennig},
+         familyi={H\bibinitperiod},
+         given={Bianca\bibnamedelima P.},
+         giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=HC}{%
+         family={Hirche},
+         familyi={H\bibinitperiod},
+         given={Christoph},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Lutz},
+         familyi={L\bibinitperiod},
+         given={Christoph},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=BEC}{%
+         family={Buss},
+         familyi={B\bibinitperiod},
+         given={Eike\bibnamedelima C.},
+         giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=ND}{%
+         family={Nowak},
+         familyi={N\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BT}{%
+         family={Boch},
+         familyi={B\bibinitperiod},
+         given={Tobias},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=HWK}{%
+         family={Hofmann},
+         familyi={H\bibinitperiod},
+         given={Wolf-Karsten},
+         giveni={W\bibinithyphendelim K\bibinitperiod},
+      }}%
+      {{hash=HAD}{%
+         family={Ho},
+         familyi={H\bibinitperiod},
+         given={Anthony\bibnamedelima D.},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=HW}{%
+         family={Huber},
+         familyi={H\bibinitperiod},
+         given={Wolfgang},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=TA}{%
+         family={Trumpp},
+         familyi={T\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=EMAG}{%
+         family={Essers},
+         familyi={E\bibinitperiod},
+         given={Marieke A.\bibnamedelima G.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+      }}%
+      {{hash=SL}{%
+         family={Steinmetz},
+         familyi={S\bibinitperiod},
+         given={Lars M.},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \keyw{{STEMNET}, ref9}
+    \strng{namehash}{VL+1}
+    \strng{fullhash}{VLHSFRSBSISHBPHCLCBECNDBTHWKHADHWTAEMAGSL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1038/ncb3493
+    \endverb
+    \field{issn}{1465-7392, 1476-4679}
+    \field{number}{4}
+    \field{pages}{271\bibrangedash 281}
+    \field{title}{Human haematopoietic stem cell lineage commitment is a
+  continuous process}
+    \verb{url}
+    \verb http://www.nature.com/articles/ncb3493
+    \endverb
+    \field{volume}{19}
+    \field{langid}{english}
+    \verb{file}
+    \verb Accepted Version:/Users/guosiyuan/Zotero/storage/CTAZG4JS/Velten et a
+    \verb l. - 2017 - Human haematopoietic stem cell lineage commitment .pdf:ap
+    \verb plication/pdf
+    \endverb
+    \field{journaltitle}{Nat Cell Biol}
+    \field{month}{04}
+    \field{year}{2017}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{welch_matcher:_2017}{article}{}
+    \name{author}{3}{}{%
+      {{hash=WJD}{%
+         family={Welch},
+         familyi={W\bibinitperiod},
+         given={Joshua\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=HAJ}{%
+         family={Hartemink},
+         familyi={H\bibinitperiod},
+         given={Alexander\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=PJF}{%
+         family={Prins},
+         familyi={P\bibinitperiod},
+         given={Jan\bibnamedelima F.},
+         giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \keyw{{MATCHER}}
+    \strng{namehash}{WJDHAJPJF1}
+    \strng{fullhash}{WJDHAJPJF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1186/s13059-017-1269-0
+    \endverb
+    \field{issn}{1474-760X}
+    \field{number}{1}
+    \field{pages}{138}
+    \field{shorttitle}{{MATCHER}}
+    \field{title}{{MATCHER}: manifold alignment reveals correspondence between
+  single cell transcriptome and epigenome dynamics}
+    \verb{url}
+    \verb http://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-12
+    \verb 69-0
+    \endverb
+    \field{volume}{18}
+    \field{langid}{english}
+    \field{journaltitle}{Genome Biol}
+    \field{month}{12}
+    \field{year}{2017}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{davis_seandavi/awesome-single-cell:_2018}{software}{}
+    \name{author}{30}{}{%
+      {{hash=DS}{%
+         family={Davis},
+         familyi={D\bibinitperiod},
+         given={Sean},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KR}{%
+         family={Kutum},
+         familyi={K\bibinitperiod},
+         given={Rintu},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=ZL}{%
+         family={Zappia},
+         familyi={Z\bibinitperiod},
+         given={Luke},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Sorenson},
+         familyi={S\bibinitperiod},
+         given={Jon},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KV}{%
+         family={Kiselev},
+         familyi={K\bibinitperiod},
+         given={Vladimir},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=OP}{%
+         family={Olivier},
+         familyi={O\bibinitperiod},
+         given={Poirion},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=BO}{%
+         family={Botvinnik},
+         familyi={B\bibinitperiod},
+         given={Olga},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=KK}{%
+         family={Korthauer},
+         familyi={K\bibinitperiod},
+         given={Keegan},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Gitter},
+         familyi={G\bibinitperiod},
+         given={Anthony},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CKR}{%
+         family={Campbell},
+         familyi={C\bibinitperiod},
+         given={Kieran\bibnamedelima R},
+         giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=HP}{%
+         family={Hickey},
+         familyi={H\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=TMA}{%
+         family={Tuncel},
+         familyi={T\bibinitperiod},
+         given={Mustafa\bibnamedelima Anil},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=M}{%
+         family={{MikeDMorgan}},
+         familyi={M\bibinitperiod},
+      }}%
+      {{hash=M}{%
+         family={Markrobinsonuzh},
+         familyi={M\bibinitperiod},
+      }}%
+      {{hash=VC}{%
+         family={Vallejos},
+         familyi={V\bibinitperiod},
+         given={Catalina},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=WZ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Zhe},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=SN}{%
+         family={Salomonis},
+         familyi={S\bibinitperiod},
+         given={Nathan},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=D}{%
+         family={Dyl4nm4rsh4ll},
+         familyi={D\bibinitperiod},
+      }}%
+      {{hash=WD}{%
+         family={Wells},
+         familyi={W\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=YY}{%
+         family={{YAN}},
+         familyi={Y\bibinitperiod},
+         given={Yun},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=PV}{%
+         family={Petukhov},
+         familyi={P\bibinitperiod},
+         given={Viktor},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=WT}{%
+         family={Wolfgruber},
+         familyi={W\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=AR}{%
+         family={Aboukhalil},
+         familyi={A\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=RP}{%
+         family={Roelli},
+         familyi={R\bibinitperiod},
+         given={Patrick},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kelly},
+         familyi={K\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Welch},
+         familyi={W\bibinitperiod},
+         given={Joshua},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=RJ}{%
+         family={Reid},
+         familyi={R\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DD}{%
+         family={{DeTomaso}},
+         familyi={D\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=A}{%
+         family={{AlessandraDM}},
+         familyi={A\bibinitperiod},
+      }}%
+      {{hash=WA}{%
+         family={Wolf},
+         familyi={W\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Zenodo}%
+    }
+    \keyw{awesome-single-cell}
+    \strng{namehash}{DS+1}
+  \strng{fullhash}{DSKRZLSJKVOPBOKKGACKRHPTMAMMVCWZSNDWDYYPVWTARRPKMWJRJDDAWA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{abstract}{%
+    List of software packages for single-cell data analysis, including
+  {RNA}-seq, {ATAC}-seq, etc.%
+    }
+    \verb{doi}
+    \verb 10.5281/zenodo.1117762
+    \endverb
+    \field{shorttitle}{Seandavi/Awesome-Single-Cell}
+    \field{title}{Seandavi/Awesome-Single-Cell: 2018-06-20-1}
+    \verb{url}
+    \verb https://zenodo.org/record/1117762
+    \endverb
+    \field{version}{2018-06-20-1}
+    \field{day}{20}
+    \field{month}{06}
+    \field{year}{2018}
+    \field{urlday}{24}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{herman_fateid_2018}{article}{}
+    \name{author}{3}{}{%
+      {{hash=HJS}{%
+         family={Herman},
+         familyi={H\bibinitperiod},
+         given={Josip\bibnamedelima S},
+         giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=S}{%
+         family={{Sagar}},
+         familyi={S\bibinitperiod},
+      }}%
+      {{hash=GD}{%
+         family={Grün},
+         familyi={G\bibinitperiod},
+         given={Dominic},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \keyw{{FateID}}
+    \strng{namehash}{HJSSGD1}
+    \strng{fullhash}{HJSSGD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1038/nmeth.4662
+    \endverb
+    \field{issn}{1548-7091, 1548-7105}
+    \field{number}{5}
+    \field{pages}{379\bibrangedash 386}
+    \field{title}{{FateID} infers cell fate bias in multipotent progenitors
+  from single-cell {RNA}-seq data}
+    \verb{url}
+    \verb http://www.nature.com/articles/nmeth.4662
+    \endverb
+    \field{volume}{15}
+    \field{langid}{english}
+    \field{journaltitle}{Nat Methods}
+    \field{month}{05}
+    \field{year}{2018}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{herring_unsupervised_2018}{article}{}
+    \name{author}{11}{}{%
+      {{hash=HCA}{%
+         family={Herring},
+         familyi={H\bibinitperiod},
+         given={Charles\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Banerjee},
+         familyi={B\bibinitperiod},
+         given={Amrita},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MET}{%
+         family={{McKinley}},
+         familyi={M\bibinitperiod},
+         given={Eliot\bibnamedelima T.},
+         giveni={E\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=SAJ}{%
+         family={Simmons},
+         familyi={S\bibinitperiod},
+         given={Alan\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Ping},
+         familyi={P\bibinitperiod},
+         given={Jie},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=RJT}{%
+         family={Roland},
+         familyi={R\bibinitperiod},
+         given={Joseph\bibnamedelima T.},
+         giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=FJL}{%
+         family={Franklin},
+         familyi={F\bibinitperiod},
+         given={Jeffrey\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=LQ}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Qi},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=GMJ}{%
+         family={Gerdes},
+         familyi={G\bibinitperiod},
+         given={Michael\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=CRJ}{%
+         family={Coffey},
+         familyi={C\bibinitperiod},
+         given={Robert\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=LKS}{%
+         family={Lau},
+         familyi={L\bibinitperiod},
+         given={Ken\bibnamedelima S.},
+         giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \keyw{{pCreode}}
+    \strng{namehash}{HCA+1}
+    \strng{fullhash}{HCABAMETSAJPJRJTFJLLQGMJCRJLKS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1016/j.cels.2017.10.012
+    \endverb
+    \field{issn}{24054712}
+    \field{number}{1}
+    \field{pages}{37\bibrangedash 51.e9}
+    \field{title}{Unsupervised Trajectory Analysis of Single-Cell {RNA}-Seq and
+  Imaging Data Reveals Alternative Tuft Cell Origins in the Gut}
+    \verb{url}
+    \verb https://linkinghub.elsevier.com/retrieve/pii/S2405471217304490
+    \endverb
+    \field{volume}{6}
+    \field{langid}{english}
+    \verb{file}
+    \verb Accepted Version:/Users/guosiyuan/Zotero/storage/N5REU52T/Herring et
+    \verb al. - 2018 - Unsupervised Trajectory Analysis of Single-Cell RN.pdf:a
+    \verb pplication/pdf
+    \endverb
+    \field{journaltitle}{Cell Systems}
+    \field{month}{01}
+    \field{year}{2018}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{moon_manifold_2018}{article}{}
+    \name{author}{6}{}{%
+      {{hash=MKR}{%
+         family={Moon},
+         familyi={M\bibinitperiod},
+         given={Kevin\bibnamedelima R.},
+         giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=SJS}{%
+         family={Stanley},
+         familyi={S\bibinitperiod},
+         given={Jay\bibnamedelima S.},
+         giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={Burkhardt},
+         familyi={B\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=vDD}{%
+         prefix={van},
+         prefixi={v\bibinitperiod},
+         family={Dijk},
+         familyi={D\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=WG}{%
+         family={Wolf},
+         familyi={W\bibinitperiod},
+         given={Guy},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Krishnaswamy},
+         familyi={K\bibinitperiod},
+         given={Smita},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \keyw{ref5}
+    \strng{namehash}{MKR+1}
+    \strng{fullhash}{MKRSJSBDDDvWGKS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1016/j.coisb.2017.12.008
+    \endverb
+    \field{issn}{24523100}
+    \field{pages}{36\bibrangedash 46}
+    \field{title}{Manifold learning-based methods for analyzing single-cell
+  {RNA}-sequencing data}
+    \verb{url}
+    \verb https://linkinghub.elsevier.com/retrieve/pii/S2452310017301877
+    \endverb
+    \field{volume}{7}
+    \field{langid}{english}
+    \field{journaltitle}{Current Opinion in Systems Biology}
+    \field{month}{02}
+    \field{year}{2018}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{street_slingshot:_2018}{article}{}
+    \name{author}{8}{}{%
+      {{hash=SK}{%
+         family={Street},
+         familyi={S\bibinitperiod},
+         given={Kelly},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Risso},
+         familyi={R\bibinitperiod},
+         given={Davide},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=FRB}{%
+         family={Fletcher},
+         familyi={F\bibinitperiod},
+         given={Russell\bibnamedelima B.},
+         giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=DD}{%
+         family={Das},
+         familyi={D\bibinitperiod},
+         given={Diya},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=NJ}{%
+         family={Ngai},
+         familyi={N\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=YN}{%
+         family={Yosef},
+         familyi={Y\bibinitperiod},
+         given={Nir},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=PE}{%
+         family={Purdom},
+         familyi={P\bibinitperiod},
+         given={Elizabeth},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=DS}{%
+         family={Dudoit},
+         familyi={D\bibinitperiod},
+         given={Sandrine},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \keyw{Slingshot}
+    \strng{namehash}{SK+1}
+    \strng{fullhash}{SKRDFRBDDNJYNPEDS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1186/s12864-018-4772-0
+    \endverb
+    \field{issn}{1471-2164}
+    \field{number}{1}
+    \field{pages}{477}
+    \field{shorttitle}{Slingshot}
+    \field{title}{Slingshot: cell lineage and pseudotime inference for
+  single-cell transcriptomics}
+    \verb{url}
+    \verb https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-477
+    \verb 2-0
+    \endverb
+    \field{volume}{19}
+    \field{langid}{english}
+    \verb{file}
+    \verb Full Text:/Users/guosiyuan/Zotero/storage/SC2WRWZA/Street et al. - 20
+    \verb 18 - Slingshot cell lineage and pseudotime inference f.pdf:applicatio
+    \verb n/pdf
+    \endverb
+    \field{journaltitle}{{BMC} Genomics}
+    \field{month}{12}
+    \field{year}{2018}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{zappia_exploring_2018}{article}{}
+    \name{author}{3}{}{%
+      {{hash=ZL}{%
+         family={Zappia},
+         familyi={Z\bibinitperiod},
+         given={Luke},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=PB}{%
+         family={Phipson},
+         familyi={P\bibinitperiod},
+         given={Belinda},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=OA}{%
+         family={Oshlack},
+         familyi={O\bibinitperiod},
+         given={Alicia},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=SD}{%
+         family={Schneidman},
+         familyi={S\bibinitperiod},
+         given={Dina},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \keyw{{scRNA}-tools}
+    \strng{namehash}{ZLPBOA1}
+    \strng{fullhash}{ZLPBOA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1371/journal.pcbi.1006245
+    \endverb
+    \field{issn}{1553-7358}
+    \field{number}{6}
+    \field{pages}{e1006245}
+    \field{title}{Exploring the single-cell {RNA}-seq analysis landscape with
+  the {scRNA}-tools database}
+    \verb{url}
+    \verb https://dx.plos.org/10.1371/journal.pcbi.1006245
+    \endverb
+    \field{volume}{14}
+    \field{langid}{english}
+    \field{journaltitle}{{PLoS} Comput Biol}
+    \field{day}{25}
+    \field{month}{06}
+    \field{year}{2018}
+    \field{urlday}{24}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{saelens_comparison_2019}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SW}{%
+         family={Saelens},
+         familyi={S\bibinitperiod},
+         given={Wouter},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=CR}{%
+         family={Cannoodt},
+         familyi={C\bibinitperiod},
+         given={Robrecht},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=TH}{%
+         family={Todorov},
+         familyi={T\bibinitperiod},
+         given={Helena},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=SY}{%
+         family={Saeys},
+         familyi={S\bibinitperiod},
+         given={Yvan},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \keyw{lineage review}
+    \strng{namehash}{SW+1}
+    \strng{fullhash}{SWCRTHSY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1038/s41587-019-0071-9
+    \endverb
+    \field{issn}{1087-0156, 1546-1696}
+    \field{number}{5}
+    \field{pages}{547\bibrangedash 554}
+    \field{title}{A comparison of single-cell trajectory inference methods}
+    \verb{url}
+    \verb http://www.nature.com/articles/s41587-019-0071-9
+    \endverb
+    \field{volume}{37}
+    \field{langid}{english}
+    \field{journaltitle}{Nat Biotechnol}
+    \field{month}{05}
+    \field{year}{2019}
+    \field{urlday}{23}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{wolf_paga:_2019}{article}{}
+    \name{author}{9}{}{%
+      {{hash=WFA}{%
+         family={Wolf},
+         familyi={W\bibinitperiod},
+         given={F.\bibnamedelima Alexander},
+         giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=HFK}{%
+         family={Hamey},
+         familyi={H\bibinitperiod},
+         given={Fiona\bibnamedelima K.},
+         giveni={F\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=PM}{%
+         family={Plass},
+         familyi={P\bibinitperiod},
+         given={Mireya},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Solana},
+         familyi={S\bibinitperiod},
+         given={Jordi},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DJS}{%
+         family={Dahlin},
+         familyi={D\bibinitperiod},
+         given={Joakim\bibnamedelima S.},
+         giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=GB}{%
+         family={Göttgens},
+         familyi={G\bibinitperiod},
+         given={Berthold},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=RN}{%
+         family={Rajewsky},
+         familyi={R\bibinitperiod},
+         given={Nikolaus},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=SL}{%
+         family={Simon},
+         familyi={S\bibinitperiod},
+         given={Lukas},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=TFJ}{%
+         family={Theis},
+         familyi={T\bibinitperiod},
+         given={Fabian\bibnamedelima J.},
+         giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \keyw{{PAGA}, {PAGA} Tree, ref7}
+    \strng{namehash}{WFA+1}
+    \strng{fullhash}{WFAHFKPMSJDJSGBRNSLTFJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \verb{doi}
+    \verb 10.1186/s13059-019-1663-x
+    \endverb
+    \field{issn}{1474-760X}
+    \field{number}{1}
+    \field{pages}{59}
+    \field{shorttitle}{{PAGA}}
+    \field{title}{{PAGA}: graph abstraction reconciles clustering with
+  trajectory inference through a topology preserving map of single cells}
+    \verb{url}
+    \verb https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1
+    \verb 663-x
+    \endverb
+    \field{volume}{20}
+    \field{langid}{english}
+    \field{journaltitle}{Genome Biol}
+    \field{month}{12}
+    \field{year}{2019}
+    \field{urlday}{22}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+\enddatalist
+\endinput

@@ -1,0 +1,60 @@
+\chapter{Future Directions} % Main chapter title
+
+\label{Future Directions} % For referencing the chapter elsewhere, use \ref{Chapter1} 
+
+\section{Single-cell Omics}
+
+Today, scientists have made great achievements in the study of single-cell omics, but many problems still exist. Solving these problems will require the joint efforts of relevant researchers around the world. There are many aspects to these issues, and we'll focus on the data quality of single-cell systematics, our processing strategies for these data with high rate of missing data, and the development of detection methods for obtaining multiple-omics data from a single cell. 
+
+\subsection{Data Quality and Sequencing Depth}
+
+At present, due to the extremely low nucleic acid content in a single cell, which is hard to be detected by instruments and easy to dissolve in reaction buffer in the washing processes, there is often a very high percentage of data loss in the single-cell omics data we can obtain, which leads to the fact that the true single-cell study does not actually exist. The conventional way in which the scientific community deals with this problem is to generate single-cell data by cluster analysis to generate multiple cell clusters, and then cluster the cells as the basic unit for studying single-cell omics. It is foreseeable that in the future, scientists will be able to obtain omics data with lower missing-data concentration or even ``perfect'' single-cell omics data. At that time, a single cell would become the real basic unit in single-cell research, marking a new phase in this single-cell biology. On the other hand, subject to the properties of various enzymes used in single-cell omics detection techniques, current single cells are not deep sequencing in the traditional sense. If researchers can find better biochemical enzymes with better performance, they will be able to obtain single-sequence techniques with higher sequencing depth, which will make the relevant research more simple and credible.
+
+\subsection{Data Preprocessing Technology}
+ 
+Single-cell systematics data are often ultra-high dimensions and containing high concentration of missing data, which is not easy to analyze. So the dimensionality reduction of these data in the data preprocessing link has become an essential part of the study of single cell biology. At the same time, multiple sources of noise are widely found in today's single-cell omics data. Also, there will be data drift between the data generated in different sequencing batches, this phenomenon is known as batch error. The more effective methods are expected to be developed to do the dimensionality reduction and noise-signal cancellation of single-cell omics data, which can help researchers extract the corresponding characteristic form data. 
+
+\subsection{Multi-omics Analysis in One Cell}
+ 
+Nowadays, single-cell omics detection techniques can only obtain a single type of omics data from one cell. Although some published methods can obtain multi-omics data at the single cell level, they are subject to various factors. These methods have not been adopted by the industry to produce stable kits. Multi-omics data based on the same batch of cells can show us the same biological process in multiple aspects during the multi-omics comprehensive analysis process, which can greatly enhance our overall understanding of life activities at the cellular level. We have reason to believe that in the future, various omics technologies will be integrated, and researchers will be able to apply multiple omics techniques in a single cell.
+
+\section{Core Algorithms of scTI Methods}
+ 
+There is no end to the optimization of the algorithm, let alone the scTI research is still in its infancy and will flourish. Not only do scientists need algorithms that can produce better results, but as the throughput of single-cell sequencing continues to increase, they also need algorithms that can handle larger amounts of data. In the current situation, the scTI method's ability to analyze different topologies is unsatisfactory. To solve this problem, researchers in this field may need to cooperate with researchers in the field of graph theory.
+
+\subsection{Advanced Algorithms}
+
+Although researchers have developed so many tools, there is still no single tool that can achieve better analysis results than other tools in all situations. In this case, computational biology or bioinformatics researchers may need the help of scientists from the computer science field to develop better-performing scTI tools with more advanced algorithms. At the same time, researchers can try to introduce artificial intelligence algorithms to help them solve data analysis problems that are difficult to mathematically model. In addition, more advanced algorithms can be used to identify cell subtypes and cell status. The suitability of the scTI tool for different topologies is essentially a graph theory problem. Various topologies are possible within real cell lineage of living organisms. Mathematical or computer scientists who study graph theory may provide academic and technical support and advice to solve this problem.
+
+\subsection{Mathematical Models}
+
+At the current stage, most of the scTI methods are actually based on scRNA-seq data, and the relationship between development and differentiation between cells is judged by analyzing the similarity in gene expression between cells. This actually only uses a very simple mathematical model, its prediction effect, versatility and stability are relatively weak. We can foresee that in future research, scientists will use mathematical models that are more efficient and have higher interpretability. In addition, with the development of single-cell multi-omics technology, scientists should establish mathematical models based on single-cell multi-omics data, which will greatly enhance our understanding of cell lineage, cell development and cell differentiation.
+
+\section{Biological Analysis Related to csTI Methods}
+
+In the future, better csTI methods will be used to analyze complex cell lineage, which often contain extremely complex topologies and more types of cell subtypes and cell states. Research on complex cell differentiation systems can help the scientific community solve some of the long-standing problems in biology. This technology can also be used to analyze the source of cancer cells in patients and related cellular carcinogenesis, to find mutation sites that lead to cancer, and provide basic information for precision medicine. High-sensitivity detection methods can also be used to analyze trace amounts of diseased cells in patient tissue samples, which could be applied to detecting cancers or other serious diseases at their early stages. \\
+
+However, limited by the total number of cells in a single batch of single-cell sequencing, there are some rare cell subtypes that may be difficult to detect, which affects the inferred cell lineage integrity and sensitivity. This problem can be solved in two ways. The first method is to use data cleaning methods to eliminate the bias between different batches of single cell sequencing data, and the second method is to increase the throughput of single batch single cell sequencing. As methods continue to improve and sequencing costs decrease, scientists will have the opportunity to build complete species cell lineage.
+
+\section{Establishment of the complete cell lineage of species}
+
+Researchers' goals should not stay at relatively simple cell lineage, and their ultimate goal should be to obtain the complete cellular developmental pathways from the processes that fertilized eggs grow and develop to adult individuals. In those process, scientists should analyze the characteristics of the single-cell omics data of each cell and classify and define the cells. If scientists succeed in building ``The Human Cell Atlas'' \parencite{regev_human_2017}, they can also use the technology and experience accumulated in the process to establish the cell lineage of various model animals. If such a great cause is really realized, biological research will enter a new phase based on single-cell omics.
+
+
+
+
+
+
+
+
+%----------------------------------------------------------------------------------------
+
+
+
+%----------------------------------------------------------------------------------------
+
+
+
+
+%The \code{biblatex} package is used to format the bibliography and inserts references such as this one \parencite{Reference1}. The options used in the \file{main.tex} file mean that the in-text citations of references are formatted with the author(s) listed with the date of the publication. Multiple references are separated by semicolons (e.g. \parencite{Reference2, Reference1}) and references with more than three authors only show the first author with \emph{et al.} indicating there are more authors (e.g. \parencite{Reference3}). This is done automatically for you. To see how you use references, have a look at the \file{Chapter1.tex} source file. Many reference managers allow you to simply drag the reference into the document as you type.
+
